@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Navigation Structure
-nav_order: 8
+title: Create A Video
+nav_order: 3
 ---
 
 # Navigation Structure
