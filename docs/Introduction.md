@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create A Tiny World
+title: Navigation Structure
 nav_order: 4
 ---
 

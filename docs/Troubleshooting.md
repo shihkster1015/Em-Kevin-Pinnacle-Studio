@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Create A Tiny World
-nav_order: 4
+title: Troubleshooting
+nav_order: 6
 ---
 
 # Navigation Structure

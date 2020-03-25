@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Create A Tiny World
-nav_order: 4
+title: Create A Video
+nav_order: 3
 ---
 
 # Navigation Structure
