@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create Something Else
+title: Storyboard
 nav_order: 5
 ---
 
