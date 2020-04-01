@@ -7,21 +7,20 @@ permalink: /
 ---
 
 # Introduction
-Pinnacle Studio 21 is a professional video editing software designed for professionals and consumers. 
-
-
+Pinnacle Studio 21 is a professional video editing software designed for professionals and consumers. This software allows you to unleash you creativity when it comes to creating and editing your videos. Pinnacle Studios is an afforable yet powerful software that can convert your simple home videos to sleek and professional movies. With thousands of ways to enhance your videos, you will only be limited by your creativity. 
 
 
 ## About this manual
-The purpose of this document is to guide you through the the Pinnacle Studios video editing software. This software allows you to unleash you creativity when it comes to creatign and editing your videos. Pinnacle Studios is an afforable yet power software that can convert your simple home videos to sleek and professional movies. With thousands of ways to enhance your videos, you will only be limited by your creativity. 
+The purpose of this document is to guide you through the the Pinnacle Studios video editing software. This guide is appropraoate for those unfamliar with video editing software and/or a beginner to Pinnacle. 
 
 Once you are done with this guide, you will have gained important foundational knowlege by: 
 
 Importing, editing and exporting a single clip movie. 
-Editing, layer and transitoining multiple files. 
+Editing, layeingr and transitioning multiple files. 
 Adding subtile and text effets to your film. 
 
 ## Prerequisites
+Ensure you are equpped with the following before you start these instructions: 
  <ul>
  <li>Pinnacle Studio 21 or newer</li>
  <li>Video in one of the acceptable formats</li>
