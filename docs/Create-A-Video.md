@@ -21,15 +21,31 @@ In this section you will be able to create an x using y.
 ## Task 1.1 Create A Movie
 
 1.  Open Pinnacle and select [File] > [New] > [Movie]. This will guide you to the main interface where you can visualize everything in your new movie through the different tracks. 
-2.  Create a new project bin by selecting the [ ] () icon. PHOTO  -> need icon 
+
+2.  Create a new project bin by selecting the [ ] () icon. 
+
 3.  Type the name for your new project. This project is now ready to import the video and audio you want to use for your movie. 
-4.  To import your media select the “Quick Import” icon. Choose your files by browsing through your local files. ![hey](images/quickImport_Interface.jpg) ** acceptable media **  -> need icon 
+
+4.  To import your media select the “Quick Import” icon.  
+
+![Quick Imports](images/quickImport_Interface.jpg)
+
 5.	Now your files are ready to use. Drag your video to the first track A/V Track 1 at the beginning of the track. PHOTO . 
     
 
 ## Task 1.2 Edit A Movie 
-1. step one kgg
-lj kjg kj gj
+
+There are two ways to trim a audio or video file once it has been placed on the track. 
+
+```yaml
+---
+layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+---
+```
+
 ## Task 1.3 Add Effect To A Movie 
 
 The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
