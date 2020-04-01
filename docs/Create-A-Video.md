@@ -28,8 +28,8 @@ In this section you will be able to create an x using y.
     
 
 ## Task 1.2 Edit A Movie 
-1. step one 
-
+1. step one kgg
+lj kjg kj gj
 ## Task 1.3 Add Effect To A Movie 
 
 The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
@@ -219,13 +219,13 @@ aux_links:
     - "//github.com/pmarsceill/just-the-docs"
 ```
 
----
+---gi tpu
 
 ## In-page navigation with Table of Contents
 
 To generate a Table of Contents on your docs pages, you can use the `{:toc}` method from Kramdown, immediately after an `<ol>` in Markdown. This will automatically generate an ordered list of anchor links to various sections of the page based on headings and heading levels. There may be occasions where you're using a heading and you don't want it to show up in the TOC, so to skip a particular heading use the `{: .no_toc }` CSS class.
 
-#### Example
+#### Examplesdfgsdfg sdfg 
 {: .no_toc }
 
 ```markdown
