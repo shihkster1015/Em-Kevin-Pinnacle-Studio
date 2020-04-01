@@ -6,9 +6,8 @@ nav_order: 3
 
 # Task One: Create A Video 
 {: .no_toc } 
-In this section you will be able to create your first movies by using the different features in Pinnacle. Your movie will 
-be made up of audio and visual that have been imported, edited and enhanced by effects. This section will guide you 
-through the basics so you can begin creating without bounds!
+In this section you will be able to create your first movie by using the different features in Pinnacle. Your movie will 
+be made up of imported, edited, and enhanced audio and visual files. This section will guide you through the importing, editing and exporting basics. 
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -28,14 +27,14 @@ with the Pinnacle Studio layout and conventions, review them [here.](Em-Kevin-Pi
 2.  Create a new project bin by selecting the ![BOX](images/box_icon.png) icon. 
 This project bin will help organize your files. 
 
-3.  Type the name for your new project and click ![Okay](). This project is now ready to import the video and audio you want to use for your movie. 
-
+3.  Type the name for your new project and click ![Okay](). 
+This project is now ready to import the video and audio you want to use for your movie. 
 
 4.  To import your media select the “Quick Import” icon.  
 
 ![Quick Imports](images/quickImport_Interface.jpg)
 
-5.	Now your files are ready to use. Drag your video to the first track A/V Track 1 at the beginning of the track. PHOTO . 
+5.	Now your files are ready to use, drag your video to the first A/V Track at the beginning of the track. PHOTO . 
     
 
 ## Task 1.2 Trim A File
