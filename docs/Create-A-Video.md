@@ -6,7 +6,6 @@ nav_order: 3
 
 # Task One: Create A Video 
 {: .no_toc } 
-
 In this section you will be able to create your first movies by using the different features in Pinnacle. Your movie will 
 be made up of audio and visual that have been imported, edited and enhanced by effects. This section will guide you 
 through the basics so you can begin creating without bounds!
@@ -42,7 +41,7 @@ There are **two** ways to trim a audio or video file once it has been placed on 
 ```yaml
 ---
 layout: default
-title: UI Components
+title: Trim A File
 nav_order: 2
 has_children: true
 ---
@@ -58,6 +57,27 @@ Here we're setting up the UI Components landing page that is available at `/docs
 
 3. Adjust to desired length 
 
+#### Example
+{: .no_toc }
+
+```yaml
+---
+layout: default
+title: Buttons
+parent: UI Components
+nav_order: 2
+---
+```
+
+```yaml
+---
+layout: default
+title: Trim A File
+nav_order: 2
+has_children: true
+---
+```
+
 #### Track Adjust 
 {: .text-gamma }
 
@@ -65,6 +85,18 @@ Here we're setting up the UI Components landing page that is available at `/docs
 
 IMAGE HERE 
 
+
+#### Example
+{: .no_toc }
+
+```yaml
+---
+layout: default
+title: Buttons
+parent: UI Components
+nav_order: 2
+---
+```
 
 ## Task 1.3 Transition A File
 
