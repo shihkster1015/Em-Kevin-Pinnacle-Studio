@@ -23,7 +23,7 @@ In this section you will be able to create an x using y.
 1.  Open Pinnacle and select [File] > [New] > [Movie]. This will guide you to the main interface where you can visualize everything in your new movie through the different tracks. 
 2.  Create a new project bin by selecting the [ ] () icon. PHOTO  -> need icon 
 3.  Type the name for your new project. This project is now ready to import the video and audio you want to use for your movie. 
-4.  To import your media select the “Quick Import” icon. Choose your files by browsing through your local files. ** acceptable media **  -> need icon 
+4.  To import your media select the “Quick Import” icon. Choose your files by browsing through your local files. ![hey](images/quick_import.jpg) ** acceptable media **  -> need icon 
 5.	Now your files are ready to use. Drag your video to the first track A/V Track 1 at the beginning of the track. PHOTO . 
     
 
