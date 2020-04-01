@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: DELETE Search
 nav_order: 98
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Add subtitles to your video
-nav_order: 4
+title: Add subtitles
+nav_order: 3
 ---
 # Adding Subtitles to Your Video
 

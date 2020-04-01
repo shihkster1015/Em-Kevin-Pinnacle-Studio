@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: DELETE Configuration
 nav_order: 96
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create A Movie
-nav_order: 3
+nav_order: 2
 ---
 
 # Task One: Create A Video 
