@@ -64,14 +64,7 @@ Here we're setting up the UI Components landing page that is available at `/docs
 1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly
 
 IMAGE HERE 
-```yaml
----
-layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
----
-```
+
 
 ## Task 1.3 Transition A File
 
