@@ -13,10 +13,13 @@ Pinnacle Studio 21 is a professional video editing software designed for profess
 
 
 ## About this manual
-This manual will teach you the basics for editing and exporting a video,
-how to create a video using the Tiny World effect, and SOMETHING ELSE
+The purpose of this document is to guide you through the the Pinnacle Studios video editing software. This software allows you to unleash you creativity when it comes to creatign and editing your videos. Pinnacle Studios is an afforable yet power software that can convert your simple home videos to sleek and professional movies. With thousands of ways to enhance your videos, you will only be limited by your creativity. 
 
+Once you are done with this guide, you will have gained important foundational knowlege by: 
 
+Importing, editing and exporting a single clip movie. 
+Editing, layer and transitoining multiple files. 
+Adding subtile and text effets to your film. 
 
 ## Prerequisites
  <ul>
