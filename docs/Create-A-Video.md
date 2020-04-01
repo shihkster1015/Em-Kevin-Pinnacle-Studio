@@ -69,12 +69,6 @@ nav_order: 2
 ---
 ```
 
-```yaml
----
-layout: default
-title: Trim A File
-nav_order: 2
-has_children: true
 ---
 ```
 
@@ -84,9 +78,9 @@ has_children: true
 1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly
 
 IMAGE HERE 
----
-```
 
+```
+---
 ## Task 1.3 Delete A File 
 
 The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
