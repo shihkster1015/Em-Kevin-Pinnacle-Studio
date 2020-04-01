@@ -22,7 +22,7 @@ be made up of imported, edited, and enhanced audio and visual files. At the end,
 
 1.  Open Pinnacle and select [File] > [New] > [Movie].  
 This will guide you to the main page where you can visualize your new movie. If you are unfamiliar
-with the Pinnacle Studio layout and conventions, review them [here.](Em-Kevin-Pinnacle-Studio\index.md) 
+with the Pinnacle Studio layout and conventions, review them [here.](/index.md) 
 
 2.  Create a new project bin by selecting the ![BOX](images/box_icon.png) icon.  
 This project bin will help organize your files. 

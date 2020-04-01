@@ -32,6 +32,7 @@ Ensure you are equipped with the following before you start these instructions:
  <li>Video in one of the acceptable formats</li>
  <li>Audio in one of the acceptable formats</li>
  </ul>
+---
 
 ### Supported Video Files 
 <ul>
@@ -52,6 +53,7 @@ Ensure you are equipped with the following before you start these instructions:
 <li>Other Files (.dvd)
 <li>FlashVideo Files (.flv)
 </ul>
+---
 
 ### Supported Audio Files 
 <ul>
