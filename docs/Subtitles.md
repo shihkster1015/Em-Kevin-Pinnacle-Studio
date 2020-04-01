@@ -3,15 +3,17 @@ layout: default
 title: Add subtitles
 nav_order: 3
 ---
-# Adding Subtitles to Your Video
+# Task Two: Adding Subtitles to Your Video
 
 Adding subtitles to your video can help you deliver a clearer message to your audience.
 
 
 1. Drag your video clip from your library to one of the available A/V channels. Except for the first channel.
-![Copy_Video](assets/images/copy-vid-to-track.png)
+![Copy_Video](images/copy-vid-to-track.png)
 
-**caution**
+![w](images/warning.png)
+_**Caution**: Leave the first track for subtitles. Tracks in Pinnacle Studio are like a stack of
+ plates. The first track will be "on top" of tracks beneath it._
 
 2. Click Create Title denoted as the T symbol at the top of the timeline bar. A Title Editor window will pop up.
 
