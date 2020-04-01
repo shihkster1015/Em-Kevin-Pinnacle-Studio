@@ -34,7 +34,7 @@ This project is now ready to import the video and audio you want to use for your
 
 ![Quick Imports](images/importFiles.png)
 
-5.	Now your files are ready to use, drag your video to the first A/V Track at the beginning of the track. PHOTO . 
+5.	Now your files are ready to use, drag your video to the first A/V Track at the beginning of the track.  
     
 
 ## Task 1.2 Trim A File
@@ -69,7 +69,6 @@ layout: default
 title: Buttons
 parent: UI Components
 nav_order: 2
----
 ```
 
 ---
@@ -92,25 +91,4 @@ IMAGE HERE
 
 ## Task 1.4 Export and Share Your Movie
 
-
----gi tpu
-
-## In-page navigation with Table of Contents
-
-To generate a Table of Contents on your docs pages, you can use the `{:toc}` method from Kramdown, immediately after an `<ol>` in Markdown. This will automatically generate an ordered list of anchor links to various sections of the page based on headings and heading levels. There may be occasions where you're using a heading and you don't want it to show up in the TOC, so to skip a particular heading use the `{: .no_toc }` CSS class.
-
-#### Examplesdfgsdfg sdfg 
-{: .no_toc }
-
-```markdown
-# Navigation Structure
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-```
-
-This example skips the page name heading (`#`) from the TOC, as well as the heading for the Table of Contents itself (`##`) because it is redundant, followed by the table of contents itself.
+---
