@@ -62,8 +62,15 @@ Ensure you are equipped with the following before you start these instructions:
 <li>MPA Files (.mpa)
 <li>Wave Files (.wav)
 <li>WMA Files (.wma)
-</ul>>
-## Pinnacle Studio Conventions: 
+</ul>
+
+## Mouse Conventions
+
+
+## Typographical Conventions
+
+
+## Pinnacle Studio Conventions 
 These instructions incorporate the following Pinnacle Studio Conventions: 
 
 **Video Preview Window**: The video preview window is located on the top right hand quadrant of your screen.
