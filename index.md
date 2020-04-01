@@ -33,6 +33,36 @@ Ensure you are equipped with the following before you start these instructions:
  <li>Audio in one of the acceptable formats</li>
  </ul>
 
+### Supported Video Files 
+<ul>
+<li>AVI Files (.avi)  
+<li>MPEG-1/2 Files (.mpg, .mpeg, .mod, .m1v, m2v, .mp2)  
+<li>MPEG-4 Files (.mp4)
+<li>AVCHD/HDV/M2T Files (.m2t, .m2ts, .mts)
+<li>TOD Files (.tod)
+<li>WMV Files (.wmv)
+<li>MOV Files (.mov)
+<li>3GP Files (.3gp, .3g2, .skm)
+<li>Digital Video File (.dv, .dvsd)
+<li>iTunes Video File (.m4v)
+<li>YUV Files (.yuv, .2vuy)
+<li>ASF Files (.asf)
+<li>Internal Video Files (.dif, .ts2)
+<li>Matroska container files (.mkv)
+<li>Other Files (.dvd)
+<li>FlashVideo Files (.flv)
+</ul>
+
+### Supported Audio Files 
+<ul>
+<li>AC3 Files (.ac3)
+<li>M4A Files (.m4a)
+<li>MP2 Files (.mp2)
+<li>MP3 Files (.mp3)
+<li>MPA Files (.mpa)
+<li>Wave Files (.wav)
+<li>WMA Files (.wma)
+</ul>>
 ## Pinnacle Studio Conventions: 
 These instructions incorporate the following Pinnacle Studio Conventions: 
 

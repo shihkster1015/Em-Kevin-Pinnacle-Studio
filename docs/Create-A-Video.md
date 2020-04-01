@@ -7,7 +7,7 @@ nav_order: 3
 # Task One: Create A Video 
 {: .no_toc } 
 In this section you will be able to create your first movie by using the different features in Pinnacle. Your movie will 
-be made up of imported, edited, and enhanced audio and visual files. This section will guide you through the importing, editing and exporting basics. 
+be made up of imported, edited, and enhanced audio and visual files. At the end, you can export your movie. This section will guide you through the importing, editing and exporting basics. 
 
 ## Table of contents
 {: .no_toc .text-delta }
