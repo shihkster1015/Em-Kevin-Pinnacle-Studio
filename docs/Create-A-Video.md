@@ -57,6 +57,22 @@ Here we're setting up the UI Components landing page that is available at `/docs
 3. Adjust to desired length 
 
 
+```yaml
+---
+layout: default
+title: Buttons
+parent: UI Components
+nav_order: 2
+---
+```
+
+```yaml
+---
+layout: default
+title: Buttons
+parent: Task 1.2 Trim A File
+nav_order: 3
+---
 #### Track Adjust 
 {: .text-gamma }
 
@@ -68,7 +84,7 @@ IMAGE HERE
 ---
 layout: default
 title: Buttons
-parent: UI Components
+parent: Task 1.2 Trim A File
 nav_order: 2
 ---
 ```
