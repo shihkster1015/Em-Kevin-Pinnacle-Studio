@@ -19,6 +19,8 @@ In this section you will be able to create an x using y.
 
 ## Task 1.1 Create A Movie
 
+..1. Open Pinnacle and select [File] > [New] > [Movie]. This will guide you to the main interface where you 
+can visualize everything in your new movie through the different tracks. 
 
 ## Task 1.2 Edit A Movie 
 
