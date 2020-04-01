@@ -56,35 +56,17 @@ Here we're setting up the UI Components landing page that is available at `/docs
 
 3. Adjust to desired length 
 
-
-```yaml
----
-layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
----
-```
-
-```yaml
----
-layout: default
-title: Buttons
-parent: Task 1.2 Trim A File
-nav_order: 3
----
 #### Track Adjust 
 {: .text-gamma }
 
 1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly
 
 IMAGE HERE 
-
 ```yaml
 ---
 layout: default
 title: Buttons
-parent: Task 1.2 Trim A File
+parent: UI Components
 nav_order: 2
 ---
 ```
