@@ -70,7 +70,13 @@ nav_order: 3
 has_children: false
 ---
 ```
-
+---
+layout: default
+title: Trim A File
+nav_order: 3
+has_children: false
+---
+```
 #### Track Adjust 
 {: .text-gamma }
 
@@ -79,7 +85,12 @@ has_children: false
 IMAGE HERE 
 
 ---
-```yaml
+layout: default
+title: Trim A File
+nav_order: 3
+has_children: false
+---
+```
 
 
 ## Task 1.3 Delete A File 
