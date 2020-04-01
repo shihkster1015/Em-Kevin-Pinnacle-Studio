@@ -27,12 +27,12 @@ with the Pinnacle Studio layout and conventions, review them [here.](Em-Kevin-Pi
 2.  Create a new project bin by selecting the ![BOX](images/box_icon.png) icon. 
 This project bin will help organize your files. 
 
-3.  Type the name for your new project and click ![Okay](). 
+3.  Type the name for your new project and click [Okay]. 
 This project is now ready to import the video and audio you want to use for your movie. 
 
 4.  To import your media select the “Quick Import” icon.  
 
-![Quick Imports](images/quickImport_Interface.jpg)
+![Quick Imports](images/importFiles.png)
 
 5.	Now your files are ready to use, drag your video to the first A/V Track at the beginning of the track. PHOTO . 
     
