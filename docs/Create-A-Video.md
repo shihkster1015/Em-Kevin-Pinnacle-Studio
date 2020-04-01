@@ -46,6 +46,25 @@ has_children: true
 ---
 ```
 
+Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
+
+### Child pages
+{: .text-gamma }
+
+On child pages, simply set the `parent:` YAML front matter to whatever the parent's page title is and set a nav order (this number is now scoped within the section).
+
+#### Example
+{: .no_toc }
+
+```yaml
+---
+layout: default
+title: Buttons
+parent: UI Components
+nav_order: 2
+---
+```
+
 ## Task 1.3 Add Effect To A Movie 
 
 The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
