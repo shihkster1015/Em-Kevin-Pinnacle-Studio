@@ -41,14 +41,6 @@ This project is now ready to import the video and audio you want to use for your
 
 There are **two** ways to trim a audio or video file once it has been placed on the track. 
 
-```yaml
----
-layout: default
-title: Trim A File
-nav_order: 2
-has_children: false
----
-```
 
 Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
 
@@ -60,23 +52,6 @@ Here we're setting up the UI Components landing page that is available at `/docs
 
 3. Adjust to desired length 
 
-#### Example
-{: .no_toc }
-
----
-layout: default
-title: Trim A File
-nav_order: 3
-has_children: false
----
-```
----
-layout: default
-title: Trim A File
-nav_order: 3
-has_children: false
----
-```
 #### Track Adjust 
 {: .text-gamma }
 
@@ -84,11 +59,61 @@ has_children: false
 
 IMAGE HERE 
 
+## Menu Adjust 
+
+Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/ui-components` and `./docs/utilities`. This gives us an organization like:
+
+
+On the parent pages, add this YAML front matter parameter:
+-  `has_children: true` (tells us that this is a parent page)
+
+#### Example
+{: .no_toc }
+
+```yaml
 ---
 layout: default
-title: Trim A File
-nav_order: 3
-has_children: false
+title: UI Components
+nav_order: 2
+has_children: true
+---
+```
+
+Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
+
+### Adgust One 
+{: .text-gamma }
+
+On child pages, simply set the `parent:` YAML front matter to whatever the parent's page title is and set a nav order (this number is now scoped within the section).
+
+#### Example
+{: .no_toc }
+
+```yaml
+---
+layout: default
+title: Buttons
+parent: UI Components
+nav_order: 2
+---
+```
+
+The Buttons page appears as a child of UI Components and appears second in the UI Components section.
+
+### AAdjust Two 
+
+By default, all pages with children will automatically append a Table of Contents which lists the child pages after the parent page's content. To disable this auto Table of Contents, set `has_toc: false` in the parent page's YAML front matter.
+
+#### Example
+{: .no_toc }
+
+```yaml
+---
+layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+has_toc: false
 ---
 ```
 
