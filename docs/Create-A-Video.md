@@ -21,11 +21,15 @@ through the basics so you can begin creating without bounds!
 
 ## Task 1.1 Create A Movie
 
-1.  Open Pinnacle and select [File] > [New] > [Movie]. This will guide you to the main interface where you can visualize everything in your new movie through the different tracks. 
+1.  Open Pinnacle and select [File] > [New] > [Movie]. 
+This will guide you to the main page where you can visualize your new movie. If you are unfamiliar
+with the Pinnacle Studio layout and conventions, review them [here.](Em-Kevin-Pinnacle-Studio\index.md) 
 
-2.  Create a new project bin by selecting the [ ] () icon. 
+2.  Create a new project bin by selecting the ![BOX](images/box_icon.png) icon. 
+This project bin will help organize your files. 
 
-3.  Type the name for your new project. This project is now ready to import the video and audio you want to use for your movie. 
+3.  Type the name for your new project and click ![Okay](). This project is now ready to import the video and audio you want to use for your movie. 
+
 
 4.  To import your media select the “Quick Import” icon.  
 
@@ -83,7 +87,7 @@ IMAGE HERE
 ---
 ## Task 1.3 Delete A File 
 
-
+1. Deleting 
 
 ---
 
