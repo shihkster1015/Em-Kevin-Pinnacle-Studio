@@ -46,7 +46,7 @@ There are **two** ways to trim a audio or video file once it has been placed on 
 layout: default
 title: Trim A File
 nav_order: 2
-has_children: true
+has_children: false
 ---
 ```
 
@@ -63,16 +63,13 @@ Here we're setting up the UI Components landing page that is available at `/docs
 #### Example
 {: .no_toc }
 
-```yaml
 ---
 layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
-```
-
+title: Trim A File
+nav_order: 3
+has_children: false
 ---
-
+```
 
 #### Track Adjust 
 {: .text-gamma }
@@ -81,8 +78,10 @@ nav_order: 2
 
 IMAGE HERE 
 
-
 ---
+```yaml
+
+
 ## Task 1.3 Delete A File 
 
 1. Deleting 
