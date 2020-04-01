@@ -93,14 +93,6 @@ has_children: true
 has_toc: false
 ---
 ```
-```yaml
----
-layout: default
-title: Buttons Child Page
-parent: Buttons
-grand_parent: UI Components
-nav_order: 1
----
 ```
 
 ## Task 1.3 Delete A File Wow 
