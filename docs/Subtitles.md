@@ -9,6 +9,8 @@ Adding subtitles to your video can help you deliver a clearer message to your au
 
 
 1. Drag your video clip from your library to one of the available A/V channels. Except for the first channel.
+![Copy_Video](assets/images/copy-vid-to-track.png)
+
 **caution**
 
 2. Click Create Title denoted as the T symbol at the top of the timeline bar. A Title Editor window will pop up.
