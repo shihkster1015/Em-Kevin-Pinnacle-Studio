@@ -20,14 +20,14 @@ be made up of imported, edited, and enhanced audio and visual files. This sectio
 
 ## Task 1.1 Create A Movie
 
-1.  Open Pinnacle and select [File] > [New] > [Movie]. 
+1.  Open Pinnacle and select [File] > [New] > [Movie].  
 This will guide you to the main page where you can visualize your new movie. If you are unfamiliar
 with the Pinnacle Studio layout and conventions, review them [here.](Em-Kevin-Pinnacle-Studio\index.md) 
 
-2.  Create a new project bin by selecting the ![BOX](images/box_icon.png) icon. 
+2.  Create a new project bin by selecting the ![BOX](images/box_icon.png) icon.  
 This project bin will help organize your files. 
 
-3.  Type the name for your new project and click [Okay]. 
+3.  Type the name for your new project and click [Okay].  
 This project is now ready to import the video and audio you want to use for your movie. 
 
 4.  To import your media select the “Quick Import” icon.  
