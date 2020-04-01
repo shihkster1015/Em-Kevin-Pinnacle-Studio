@@ -36,35 +36,36 @@ Ensure you are equipped with the following before you start these instructions:
 
 ### Supported Video Files 
 <ul>
-<li>AVI Files (.avi)  
-<li>MPEG-1/2 Files (.mpg, .mpeg, .mod, .m1v, m2v, .mp2)  
-<li>MPEG-4 Files (.mp4)
-<li>AVCHD/HDV/M2T Files (.m2t, .m2ts, .mts)
-<li>TOD Files (.tod)
-<li>WMV Files (.wmv)
-<li>MOV Files (.mov)
-<li>3GP Files (.3gp, .3g2, .skm)
-<li>Digital Video File (.dv, .dvsd)
-<li>iTunes Video File (.m4v)
-<li>YUV Files (.yuv, .2vuy)
-<li>ASF Files (.asf)
-<li>Internal Video Files (.dif, .ts2)
-<li>Matroska container files (.mkv)
-<li>Other Files (.dvd)
-<li>FlashVideo Files (.flv)
+<li>AVI Files (.avi)</li>  
+<li>MPEG-1/2 Files (.mpg, .mpeg, .mod, .m1v, m2v, .mp2)</li>  
+<li>MPEG-4 Files (.mp4)</li>
+<li>AVCHD/HDV/M2T Files (.m2t, .m2ts, .mts)</li>
+<li>TOD Files (.tod)</li>
+<li>WMV Files (.wmv)</li>
+<li>MOV Files (.mov)</li>
+<li>3GP Files (.3gp, .3g2, .skm)</li>
+<li>Digital Video File (.dv, .dvsd)</li>
+<li>iTunes Video File (.m4v)</li>
+<li>YUV Files (.yuv, .2vuy)</li>
+<li>ASF Files (.asf)</li>
+<li>Internal Video Files (.dif, .ts2)</li>
+<li>Matroska container files (.mkv)</li>
+<li>Other Files (.dvd)</li>
+<li>FlashVideo Files (.flv)</li>
 </ul>
 ---
 
 ### Supported Audio Files 
 <ul>
-<li>AC3 Files (.ac3)
-<li>M4A Files (.m4a)
-<li>MP2 Files (.mp2)
-<li>MP3 Files (.mp3)
-<li>MPA Files (.mpa)
-<li>Wave Files (.wav)
-<li>WMA Files (.wma)
+<li>AC3 Files (.ac3)</li>
+<li>M4A Files (.m4a)</li>
+<li>MP2 Files (.mp2)</li>
+<li>MP3 Files (.mp3)</li>
+<li>MPA Files (.mpa)</li>
+<li>Wave Files (.wav)</li>
+<li>WMA Files (.wma)</li>
 </ul>
+---
 
 ## Mouse Conventions
 
@@ -84,7 +85,8 @@ It allows you to see your progress without switching to full screen.
 and this allows you to overlap video and audio files. The trial version of Pinnacle consists of 7 tracks in its timeline. 
 
 **Scrubber**: The scrubber is the single vertical line that marks where you are in the timeline. You can move the 
-scrubber by dragging it across the timeline. 
+scrubber by dragging it across the timeline.  
+
 
 ![](docs/images/pinnacle_conventions.png)
 
