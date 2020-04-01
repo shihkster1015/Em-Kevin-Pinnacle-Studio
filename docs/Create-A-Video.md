@@ -19,7 +19,7 @@ In this section you will be able to create an x using y.
 
 ## Main navigation
 
-Task 1.1 Creating a Movie {:toc}
+Task 1.1 Create a Movie {:toc .text-delta}
 
 The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
 
