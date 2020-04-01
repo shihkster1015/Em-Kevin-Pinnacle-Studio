@@ -33,9 +33,9 @@ In this section you will be able to create an x using y.
 5.	Now your files are ready to use. Drag your video to the first track A/V Track 1 at the beginning of the track. PHOTO . 
     
 
-## Task 1.2 Edit A Movie 
+## Task 1.2 Trim A File
 
-There are two ways to trim a audio or video file once it has been placed on the track. 
+There are **two** ways to trim a audio or video file once it has been placed on the track. 
 
 ```yaml
 ---
@@ -48,13 +48,21 @@ has_children: true
 
 Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
 
-### Child pages
+### Menu Adjust
+{: .text-gamma }
+1. To ajust the duration of a audio/video clip, simply right click the media on the track to reveal an options menu. 
+
+2. Select [Duration]
+
+3. Adjust to desired length 
+
+
+#### Track Adjust 
 {: .text-gamma }
 
-On child pages, simply set the `parent:` YAML front matter to whatever the parent's page title is and set a nav order (this number is now scoped within the section).
+1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly
 
-#### Example
-{: .no_toc }
+IMAGE HERE 
 
 ```yaml
 ---
@@ -65,7 +73,7 @@ nav_order: 2
 ---
 ```
 
-## Task 1.3 Add Effect To A Movie 
+## Task 1.3 Transition A File
 
 The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
 
