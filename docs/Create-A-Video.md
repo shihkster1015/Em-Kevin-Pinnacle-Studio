@@ -85,17 +85,6 @@ has_children: true
 
 IMAGE HERE 
 
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
----
 ```
 
 ## Task 1.3 Transition A File
