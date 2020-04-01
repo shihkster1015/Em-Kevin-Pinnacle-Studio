@@ -77,6 +77,8 @@ and this allows you to overlap video and audio files. The trial version of Pinna
 **Scrubber**: The scrubber is the single vertical line that marks where you are in the timeline. You can move the 
 scrubber by dragging it across the timeline. 
 
+![](docs/images/pinnacle_conventions.png)
+
 
 
 
