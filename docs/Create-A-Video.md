@@ -7,7 +7,9 @@ nav_order: 3
 # Task One: Create A Video 
 {: .no_toc } 
 
-In this section you will be able to create an x using y. 
+In this section you will be able to create your first movies by using the different features in Pinnacle. Your movie will 
+be made up of audio and visual that have been imported, edited and enhanced by effects. This section will guide you 
+through the basics so you can begin creating without bounds!
 
 ## Table of contents
 {: .no_toc .text-delta }
