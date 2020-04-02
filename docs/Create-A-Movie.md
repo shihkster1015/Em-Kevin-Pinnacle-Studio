@@ -49,9 +49,12 @@ There are **two** ways to trim a audio or video file once it has been placed on 
 
 2. Click [Duration].
 
-3. Adjust to desired length.
- 
+3. Adjust to desired length and click [Okay].
 
+![](images/adjust-duration.png)
+
+ ![NOTE](images/warning.png) **Note**: This method will **only** trim your file from the end. 
+ 
 ### Adjust 
 
 1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly.
@@ -65,10 +68,13 @@ There are **two** ways to trim a audio or video file once it has been placed on 
  
 ### Delete A File From The Project 
 
-1. Right-click the file in the your project bin. 
+1. Right-click the file in the your project bin.  
+ 
 2. Select [Delete selected]  
-3. Select [Remove from library only.]  
-![Delete-Items](images/delete-selected.png)
+  
+3. Select [Remove from library only.]   
+ 
+![Delete-Items](images/remove-from-library.png)
  
 ![Caution](images/critical.png) **Caution** selecting "Remove from library and delete and/or projects and 
 auxiliary files from my hard drive" will remove the file from your your project **and** your computer. Make sure you 
