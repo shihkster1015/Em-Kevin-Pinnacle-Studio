@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: DELETE Navigation Structure
 nav_order: 88
 ---
 

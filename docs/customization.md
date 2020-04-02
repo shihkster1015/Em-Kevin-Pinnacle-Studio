@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: DELETE Customization
 nav_order: 97
 ---
 
