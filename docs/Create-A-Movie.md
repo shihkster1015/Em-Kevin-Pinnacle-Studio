@@ -53,13 +53,17 @@ There are **two** ways to trim a audio or video file once it has been placed on 
 
 ![](images/adjust-duration.png)
 
-  
- ![NOTE](images/warning.png) **Note**: This method will **only** trim your file from the end. 
+![NOTE](images/warning.png) **Note**: This method will **only** trim your file from the end. 
  
 ### Trim Front and/or Back
 
-1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly.
+1. Hover your mouse on either the front (trim beginning of file) or tail (trim end of file) end of the clip until you see 
+a white arrow and/or drag prompt.
 
+![](images/trim-clip-arrow.png)
+
+2. Click your mouse and drag it to the new desired length of the file. 
+  
 
 ---
 
@@ -92,5 +96,27 @@ have an external copy of these files if you plan on needing them in the future.
 ---
 
 ## Task 1.4 Export and Share Your Movie
+
+1. Click the [Export] on the top of your window to navigate to the Export page. 
+
+2. Name your movie in File Name 
+
+3. Select "Add Exported File to Library"
+
+4. From "Format" select H.264/AVC  
+H.264/ACV will export you film to a .mp4 file. This format is one of the most universal video formats. 
+
+5. Click [Export]
+
+![export-process](images/export.png)
+
+6. Wait for your video to export.  
+A progress bar will appear at the bottom of the video preview bar.   
+
+![progress](images/progress-bar.png)
+
+7. When pinnacle has exported your new movie, it will automatically open your file explore where your movie is located. 
+
+8. Now time to grab the popcorn and enjoy your new film! Don't forget the extra butter. 
 
 ---
