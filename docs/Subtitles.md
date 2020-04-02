@@ -5,10 +5,11 @@ nav_order: 3
 ---
 # Task Two: Adding Subtitles to Your Video
 
+{: .no_toc .text-delta }
 
 Adding subtitles to your video can help you deliver a clearer message to your audience.
 
-This section will show you how to add subtitles 
+This section will show you how to add subtitles to your existing videos and how to edit elements of the subtitle.
 
 ## Create Subtitle 
 
@@ -30,7 +31,9 @@ within the white outer box.
 
 5\. Adjust the duration of the text by inputting when the subtitle will enter and when the subtitle will exit.
 [] represents the beginning time. TC is the ending time. 
+
 ![adjust time](images/adjust-time.png)
+
 ![w](images/warning.png) **note** The time format is HH:MM:SS.SS
 
 6\. Click [OK] to save your text and exit out of the Title Editor. 
