@@ -30,11 +30,10 @@ This project bin will help organize your files.
 3.  Type the name for your new project and click [Okay].  
 This project is now ready to import the video and audio you want to use for your movie. 
 
-4.  To import your media select the “Quick Import” icon.  
+4.  To import your media select the ![BOX](images/importIcon.png) icon and search for the files you'd like to use.  
+![Quick Imports](images/clickImport_findFile.png)
 
-![Quick Imports](images/importFiles.png)
-
-5.	Now your files are ready to use, drag your video to the first A/V Track at the beginning of the track.  
+5.	Now your files are ready to use drag your video to the first A/V Track at the beginning of the track.  
     
 
 ## Task 1.2 Editing Your Files 
@@ -61,17 +60,6 @@ has_children: true
 
 3. Adjust to desired length 
 
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
----
-```
 
 The Buttons page appears as a child of UI Components and appears second in the UI Components section.
 
