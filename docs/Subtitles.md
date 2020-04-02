@@ -14,10 +14,10 @@ This section will show you how to add subtitles
 
 1\. Drag your video clip from your library to one of the available A/V channels. Except for the first channel.
 ![Copy_Video](images/copy-vid-to-track.png)
-![w](images/warning.png)
+
+![c](images/critical.png)
 _**Caution**: Leave the first track for subtitles. Tracks in Pinnacle Studio are like a stack of
  plates. The first track will be "on top" of tracks beneath it._
- <p> &nbsp;</p>
  
 2\. Click Create Title denoted by the T symbol at the top of the timeline bar. A Title Editor window will pop up.
 ![click T](images/click-title-editor.png)
@@ -28,8 +28,10 @@ within the white outer box.
 
 
 
-5\. Adjust the duration of the text by inputting when the subtitle will enter and when the subtitle will exit. 
-**note** The time format is HH:MM:SS.SS
+5\. Adjust the duration of the text by inputting when the subtitle will enter and when the subtitle will exit.
+[] represents the beginning time. TC is the ending time. 
+![adjust time](images/adjust-time.png)
+![w](images/warning.png) **note** The time format is HH:MM:SS.SS
 
 6\. Click [OK] to save your text and exit out of the Title Editor. 
 
