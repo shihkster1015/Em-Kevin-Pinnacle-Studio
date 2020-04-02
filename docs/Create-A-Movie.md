@@ -42,7 +42,7 @@ There are **two** ways to trim a audio or video file once it has been placed on 
 
 ---
 
-### Adjust by 
+### Adjust Duration
 {: .text-gamma }
 
 1. To adjust the duration of a audio/video clip, simply right click the media on the track to reveal an options menu. 
@@ -53,9 +53,10 @@ There are **two** ways to trim a audio or video file once it has been placed on 
 
 ![](images/adjust-duration.png)
 
+  
  ![NOTE](images/warning.png) **Note**: This method will **only** trim your file from the end. 
  
-### Adjust 
+### Trim Front and/or Back
 
 1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly.
 
@@ -83,7 +84,8 @@ have an external copy of these files if you plan on needing them in the future.
 ---
 ### Delete A File From The Track 
 
-1. Right-click the file you wish to delete on the track. 
+1. Right-click the file you wish to delete on the track.  
+ 
 2. Click delete. 
 ![Delete-File-From-Track-Image](images/delete-from-track.png)
 
