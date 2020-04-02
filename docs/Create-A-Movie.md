@@ -30,8 +30,8 @@ This project bin will help organize your files.
 3.  Type the name for your new project and click [Okay].  
 This project is now ready to import the video and audio you want to use for your movie. 
 
-4.  To import your media select the ![BOX](images/importIcon.png) icon and search for the files you'd like to use.  
-![Quick Imports](images/clickImport_findFile.png)
+4.  To import your media select the ![BOX](images/importIcon.png) icon and search for the files you'd like to use. 
+   ![Quick Imports](images/clickImport_findFile.png)
 
 5.	Now your files are ready to use drag your video to the first A/V Track at the beginning of the track.  
     
@@ -54,17 +54,30 @@ There are **two** ways to trim a audio or video file once it has been placed on 
 
 The Buttons page appears as a child of UI Components and appears second in the UI Components section.
 
-### A
+### Adjust 
 
-1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly
+1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly.
 
-IMAGE HERE 
 
 ---
 
-## Task 1.3 Delete A File Wow 
+## Task 1.3 Delete A File
 
-1. Deleting 
+---
+ 
+### Delete A File From The Project 
+
+1. Right-click the file in the your project bin. 
+2. Select [Delete selected]  
+3. Select [Remove from library only.]  
+![Delete-Items](images/delete-selected.png)
+ 
+![Caution](images/critical.png) **Caution** selecting "Remove from library and delete and/or projects and 
+auxiliary files from my hard drive" will remove the file from your your project **and** your computer. Make sure you 
+have an external copy of these files if you plan on needing them in the future. 
+
+---
+### Delete A File From The Track 
 
 ---
 
