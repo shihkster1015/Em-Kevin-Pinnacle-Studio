@@ -4,11 +4,12 @@ title: Create A Movie
 nav_order: 2
 ---
 
-# Task One: Create A Video 
+# Task One: Create And Export a Basic Video 
 {: .no_toc } 
-In this section you will be able to create your first movie by using the different features in Pinnacle. Your movie will 
-be made up of imported, edited, and enhanced audio and visual files. At the end, you can export your movie. This section will guide you through the importing, editing and exporting basics. 
+Understanding the basics of Pinnacle lays the foundation to utilizing all the tools and effects Pinnacle Studios has to offer.  
 
+In this section we will guide you to create your first movie by using the different features in Pinnacle. Your movie will 
+be made up of imported, edited, and enhanced audio and visual files. At the end, you can export your movie.
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -115,6 +116,6 @@ A progress bar will appear at the bottom of the video preview bar.
 
 7. When pinnacle has exported your new movie, it will automatically open your file explore where your movie is located. 
 
-8. Now time to grab the popcorn and enjoy your new film! Don't forget the extra butter. 
+8. Now time to grab some popcorn and enjoy your new film! Don't forget the extra butter. 
 
 ---
