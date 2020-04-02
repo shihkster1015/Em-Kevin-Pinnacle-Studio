@@ -30,9 +30,9 @@ This project bin will help organize your files.
 3.  Type the name for your new project and click [Okay].  
 This project is now ready to import the video and audio you want to use for your movie. 
 
-4.  To import your media select the ![BOX](images/importIcon.png) icon and search for the files you'd like to use. 
-   ![Quick Imports](images/clickImport_findFile.png)
-
+4.  To import your media select the ![BOX](images/importIcon.png) icon and search for the files you'd like to use. ![Quick Imports](images/clickImport_findFile.png)  
+  
+   
 5.	Now your files are ready to use drag your video to the first A/V Track at the beginning of the track.  
     
 
@@ -44,15 +44,13 @@ There are **two** ways to trim a audio or video file once it has been placed on 
 
 ### Adjust by 
 {: .text-gamma }
+
 1. To adjust the duration of a audio/video clip, simply right click the media on the track to reveal an options menu. 
 
 2. Click [Duration].
 
 3. Adjust to desired length.
  
-
-
-The Buttons page appears as a child of UI Components and appears second in the UI Components section.
 
 ### Adjust 
 
@@ -78,6 +76,10 @@ have an external copy of these files if you plan on needing them in the future.
 
 ---
 ### Delete A File From The Track 
+
+1. Right-click the file you wish to delete on the track. 
+2. Click delete. 
+![Delete-File-From-Track-Image](images/delete-from-track.png)
 
 ---
 
