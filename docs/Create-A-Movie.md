@@ -40,48 +40,27 @@ This project is now ready to import the video and audio you want to use for your
 
 There are **two** ways to trim a audio or video file once it has been placed on the track. 
 
-#### Example
-{: .no_toc }
-
-```yaml
 ---
-layout: default
-title: UI Components
-nav_order: 2
-has_children: true
----
-```
 
-### Menu Adjust
+### Adjust by 
 {: .text-gamma }
 1. To adjust the duration of a audio/video clip, simply right click the media on the track to reveal an options menu. 
 
-2. Select [Duration]
+2. Click [Duration].
 
-3. Adjust to desired length 
+3. Adjust to desired length.
+ 
 
 
 The Buttons page appears as a child of UI Components and appears second in the UI Components section.
 
-#### Track Adjust 
-{: .text-gamma }
+### A
 
 1. To adjust the duration of a clip directly on the track, drag the edges of the clip file directly
 
 IMAGE HERE 
-#### Example
-{: .no_toc }
 
-```yaml
 ---
-layout: default
-title: UI Components
-nav_order: 2
-has_children: true
-has_toc: false
----
-```
-```
 
 ## Task 1.3 Delete A File Wow 
 
