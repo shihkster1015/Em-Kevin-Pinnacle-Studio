@@ -107,12 +107,10 @@ have an external copy of these files if you plan on needing them in the future.
 H.264/ACV will export you film to a .mp4 file. This format is one of the most universal video formats. 
 
 5. Click [Export]
-
 ![export-process](images/export.png)
 
 6. Wait for your video to export.  
 A progress bar will appear at the bottom of the video preview bar.   
-
 ![progress](images/progress-bar.png)
 
 7. When pinnacle has exported your new movie, it will automatically open your file explore where your movie is located. 
