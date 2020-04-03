@@ -33,7 +33,7 @@ within the white outer box.
 
 ![adjust time](images/adjust-time.png)
 
-![w](images/warning.png) **note** The time format is HH:MM:SS.SS
+![w](images/warning.png) **note**: The time format is HH:MM:SS.SS
 
 6\. Click [OK] to save your text and exit out of the Title Editor. 
 
