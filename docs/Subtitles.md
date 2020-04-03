@@ -8,7 +8,6 @@ nav_order: 3
 {: .no_toc .text-delta }
 
 Adding subtitles to your video can help you deliver a clearer message to your audience.
-
 This section will show you how to add subtitles to your existing videos and how to edit elements of the subtitle.
 
 ## Create Subtitle 
@@ -55,3 +54,4 @@ within the white outer box.
 4\. Adjust the duration of the motion by moving the white tab in the text timeline.
 ![white bar](images/white-bar.png)
 
+5\. Click [OK] to save your text and exit out of the Title Editor. 
