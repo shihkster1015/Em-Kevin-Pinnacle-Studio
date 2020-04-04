@@ -34,6 +34,7 @@ color_scheme: "dark"
 ```
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
+<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
 
 ## Specific visual customization
 
@@ -65,3 +66,10 @@ For example, if you'd like to add your own styles for printing a page, you could
 #### Example
 {: .no_toc }
 
+```scss
+// Print-only styles.
+@media print {
+  .side-bar, .page-header { display: none; }
+  .main-content { max-width: auto; margin: 1em;}
+}
+```
