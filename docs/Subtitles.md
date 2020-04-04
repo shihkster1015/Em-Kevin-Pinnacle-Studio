@@ -29,7 +29,7 @@ for your subtitle.
 **Caution: Leave the first track for subtitles. Tracks in Pinnacle Studio are like a stack of
  plates. The first track will be "on top" of tracks beneath it.**
  
-2\. **Click** [Create Title] denoted by the T symbol at the top of the timeline bar. A Title Editor window will pop up.
+2\. **Click** the ![the T](images/the-T.png) to open a "Title Editor" window. 
 ![click T](images/click-title-editor.png)
 
 3\. **Add** your text under **Your Text Here**. Position your text to a suitable position on screen 
