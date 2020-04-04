@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Create A Movie
+title: Create And Export A Basic Movie
 nav_order: 2
 ---
 
-# Task One: Create And Export a Basic Video 
+# Task One: Create And Export a Basic Movie 
 {: .no_toc } 
 Understanding the basics of Pinnacle lays the foundation to utilizing all the tools and effects Pinnacle Studios has to offer.  
 

@@ -13,7 +13,7 @@ This software allows you to unleash you creativity when it comes to creating and
  and professional movies. With thousands of ways to enhance your videos, you will only be limited by your creativity. 
 
 
-## About this manual
+## About This Manual
 The purpose of this document is to guide you through the the Pinnacle Studios video editing software. 
 This guide is appropriate for those unfamiliar with video editing software and/or a beginner to Pinnacle. 
 
@@ -68,27 +68,23 @@ Ensure you are equipped with the following before you start these instructions:
 ---
 
 ## Mouse Conventions
-
+The following are industry standard terms when using a mouse. These conventions assume you are using a standard three 
+button mouse.  
+<ul>
+<li> <b>Click</b>>Click Press the left mouse button and release immediately. </li>
+<li> <b>Right-Click:</b> Press the right mouse button and release immediately </li>
+<li> <b>Drag:</b> Press and hold the left mouse button then move the mouse </li>
+</ul>
 
 ## Typographical Conventions
 
-
-## Pinnacle Studio Conventions 
-These instructions incorporate the following Pinnacle Studio Conventions: 
-
-**Video Preview Window**: The video preview window is located on the top right hand quadrant of your screen.
-It allows you to see your progress without switching to full screen. 
-
-**Timeline**: The timeline occupies the bottom half of your screen and displays the video/audio clips in chronological order. 
-
-**Track(s)**:  The tracks or timeline tracks are what occupy the timeline. A tracks will hold a single media file 
-and this allows you to overlap video and audio files. The trial version of Pinnacle consists of 7 tracks in its timeline. 
-
-**Scrubber**: The scrubber is the single vertical line that marks where you are in the timeline. You can move the 
-scrubber by dragging it across the timeline.  
+| Convention                      | Example                     | 
+| :---                            |    :----:                   | 
+| **Commands and Actions:** Command and action words will be bolded | **Click**, **Drag**                           | 
+| **Button Sequence:** Buttons in a sequences will be outlined in square brackets [ ] and followed by a greater than key > to indicate the flow of the sequence             | [File]>[New]>[Movie]        |
+| **Buttons:** Buttons will be in italics                          | *Duration*, *Okay*                       |
 
 
-![](docs/images/pinnacle_conventions.png)
 
 
 

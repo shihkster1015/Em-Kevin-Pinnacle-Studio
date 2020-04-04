@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Add effects
+title: Add Effects
 nav_order: 4
 ---
 
