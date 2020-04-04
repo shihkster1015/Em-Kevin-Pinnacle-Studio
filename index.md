@@ -83,9 +83,11 @@ button mouse.
 | :---                            |    :----:                   | 
 | **Commands and Actions:** Command and action words will be bolded | **Click**, **Drag**                           | 
 | **Button Sequence:** Buttons will be outlined in square brackets [ ] and followed by a greater than key > to indicate the flow of the sequence             | [File]>[New]>[Movie]        |
-| **Widows:** Windows will be in italics                          | *Duration*, *Okay*                       |
+| **Widows:** Windows will be in quotations                        | "Adjust Duration"                       |
+ 
 
-![warning](docs/images/warning.png) **Note:** This icon indicates to beware of the following. \
+![warning](docs/images/warning.png) **Note:** This icon indicates to beware of the following.
+
 ![critical](docs/images/critical.png) **Warning** This icon indicates you need to pay special attention to the following. 
 Failure to pay attention may result in undesirable consequences.
  
