@@ -22,6 +22,9 @@ for the list of compatible video formats.
 This happens when Pinnacle can no longer locate your file on your computer. This happens if a file is renamed or if it 
 has been moved or deleted from your computer. 
 
+## I am unable to launch Pinnacle Studio. 
+It is difficult to know why
+
 ## I can't play my entire video in the Video Preview Window.
 
 Make sure the Scrubber starts at the beginning of your video clip in the timeline. The Scrubber
