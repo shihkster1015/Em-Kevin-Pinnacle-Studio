@@ -2,8 +2,7 @@
 layout: default
 title: UI Components
 nav_exclude:true
-has_children: false
-permalink: /docs/ui-components
+
 ---
 
 # UI Components
