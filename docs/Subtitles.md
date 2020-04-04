@@ -10,7 +10,7 @@ nav_order: 3
 Adding subtitles to your video can help you deliver a clearer message to your audience.
 This section will show you how to add subtitles to your existing videos and how to edit elements of the subtitle.
 
-## Create Subtitle 
+## Task 2.1 Create Subtitle 
 
 1\. Drag your video clip from your library to one of the available A/V channels. Except for the first channel.
 ![Copy_Video](images/copy-vid-to-track.png)
@@ -40,7 +40,7 @@ within the white outer box.
 7\. Verify your subtitle's runtime does not run past the video's runtime. 
 ![text past video](images/text-cant-be-past-video.png)
 
-## Edit Subtitle 
+##Task 2.2 Edit Subtitle 
 
 1\. Double click the subtitle box to edit the current subtitle.
 ![double click](images/double-click-text.png)
