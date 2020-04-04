@@ -21,7 +21,7 @@ The timeline occupies the bottom half of your screen and displays the video/audi
 
 **Track(s)**  
 The tracks or timeline tracks are what occupy the timeline. A tracks will hold a single media file 
-and this allows you to overlap video and audio files. The trial version of Pinnacle consists of 7 tracks in its timeline. 
+and this allows you to overlap video and audio files. The trial version of Pinnacle Studio consists of 7 tracks in its timeline. 
 
 **Video Preview Window**  
 The video preview window is located on the top right hand quadrant of your screen.

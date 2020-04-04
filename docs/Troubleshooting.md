@@ -19,14 +19,14 @@ for the list of compatible video formats.
 
 ## I am unable to play my video clip that was previously working. 
 
-This happens when Pinnacle can no longer locate your file on your computer. This happens if a file is renamed or if it 
+This happens when Pinnacle Studio can no longer locate your file on your computer. This happens if a file is renamed or if it 
 has been moved or deleted from your computer. 
 
 ## I am unable to launch Pinnacle Studio. 
 
 It is difficult to pinpoint the source of this problem but restarting your computer is a good starting point. 
-If this doesn't work ensure you have the latest version of Pinnacle. If neither of these methods work, 
-uninstall Pinnacle from your computer by opening Control Panel and selecting the “Programs and Features” list. 
+If this doesn't work ensure you have the latest version of Pinnacle Studio. If neither of these methods work, 
+uninstall Pinnacle Studio from your computer by opening Control Panel and selecting the “Programs and Features” list. 
 After uninstalling, reinstall Pinnacle Studio and try launching again.   
 
 ## I can't play my entire video in the Video Preview Window.

@@ -25,7 +25,7 @@ This section will go over the basics of add, editing, and deleting video transit
 1\. **Add** two videos you want to transition between side by side in the timeline view. 
 ![two vid](images/vid-side-by-side.png)
 
-2\. Find the transition effect you want by clicking the thunderbolt icon ![thunderbolt](images/thunderbolt-button.png) in the library pane.
+2\. Find the transition effect you want by **clicking** the thunderbolt icon ![thunderbolt](images/thunderbolt-button.png) in the library pane.
 ![select transition](images/select-transition.png)
 <br>
 <br>
@@ -41,7 +41,7 @@ second (blue) half increasing means the effect will transition from the first tr
 ![note](images/warning.png) **Note:** The box will be on the side the effect is applied too. Left for beginning, right for end.
 ![effect triangle](images/effect-triangle.png)
 
-5\. Edit the duration of the effect by **right-clicking** the effect box and selecting [Transition] -> [Edit]. Enter
+5\. Edit the duration of the effect by **right-clicking** the effect box and selecting [Transition] > [Edit]. Enter
 The duration of the effect and click [OK] to confirm and return.
 ![edit duration](images/edit-duration.jpg)
 
@@ -63,7 +63,7 @@ The duration of the effect and click [OK] to confirm and return.
 ## Task 3.3 Edit an Effect
 
 1\. **Right-click** on the video clip in the timeline to bring up a contextual menu. 
-2\. **Select** [Effect]>[Edit]>[your] effect]
+2\. **Select** [Effect]>[Edit]>[your effect]
 ![right click edit effect](images/edit-right-click-effect.jpg)
 
 3\. (Optional) Make any changes to your effect in the edit effect window.
@@ -78,7 +78,8 @@ The duration of the effect and click [OK] to confirm and return.
 4\. **Click** [OK] to confirm and return.
 ## Task 3.4 Delete Effect
 
-1\. **Right-click** on the effects box -> [Transition]>[Delete] to delete an effect.
+1\. **Right-click** on the effects box to bring up a contextual menu.
+2\. **Click** [Transition]>[Delete] to delete an effect.
  \
 ![note](images/critical.png) **Warning: Be sure to only delete the effect. If you right click in the video box, you will 
 delete the video along with the effects.**

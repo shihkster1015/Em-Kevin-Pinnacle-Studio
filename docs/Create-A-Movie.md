@@ -114,7 +114,7 @@ H.264/ACV will export you film to a mp4 file. This format is one of the most uni
 A progress bar will appear at the bottom of the video preview bar.   
 ![progress](images/progress-bar.png)
 
-7. When pinnacle has exported your new movie, it will automatically open your file explore where your movie is located. 
+7. When Pinnacle Studio has exported your new movie, it will automatically open your file explore where your movie is located. 
 
 8. Now time to grab some popcorn and enjoy your new film! Don't forget the extra butter. 
 
