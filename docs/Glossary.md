@@ -4,7 +4,7 @@ title: Glossary
 nav_order: 5
 ---
 
-#Glossary
+# Glossary
 {: .no_toc } 
 
 These instructions incorporate the following Pinnacle Studio Conventions: 
