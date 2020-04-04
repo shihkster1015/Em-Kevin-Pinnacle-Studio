@@ -26,10 +26,10 @@ has been moved or deleted from your computer.
 
 It is difficult to pinpoint the source of this problem but restarting your computer is a good starting point. 
 If this doesn't work ensure you have the latest version of Pinnacle. If neither of these methods work, 
-uninstall Pinnacle from your computers Control Panel “Programs and Features” list. 
+uninstall Pinnacle from your computer by opening Control Panel and selecting the “Programs and Features” list. 
 After uninstalling, reinstall Pinnacle Studio and try launching again.   
 
-## I am
+## I can't play my entire video in the Video Preview Window.
 
 Make sure the Scrubber starts at the beginning of your video clip in the timeline. The Scrubber
 has to be at the very left side (beginning) of the timeline. This is also indicated with the Scrubber
