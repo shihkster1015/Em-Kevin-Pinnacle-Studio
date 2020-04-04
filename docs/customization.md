@@ -1,7 +1,8 @@
 ---
 layout: default
 title: DELETE Customization
-nav_order: 97
+nav_order: x
+nav_exclude: true
 ---
 
 # Customization
