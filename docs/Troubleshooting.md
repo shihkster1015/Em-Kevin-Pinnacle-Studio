@@ -24,6 +24,9 @@ has been moved or deleted from your computer.
 
 ## I am unable to launch Pinnacle Studio. 
 
-It is difficult to know why 
+It is difficult to pinpoint the source of this problem but restarting your computer is a good starting point. 
+If this doesn't work ensure you have the latest version of Pinnacle. If neither of these methods work, 
+uninstall Pinnacle from your computers Control Panel “Programs and Features” list. 
+After uninstalling, reinstall Pinnacle Studio and try launching again.   
 
-## Fourth Problem?
+## I am
