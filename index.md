@@ -2,20 +2,20 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "An introduction to a tutorial on Pinnacle Studio 21"
+description: "An introduction to a tutorial on Pinnacle Studio"
 permalink: /
 ---
 
 # Introduction
-Pinnacle Studio 21 is a professional video editing software designed for professionals and consumers. 
+Pinnacle Studio is a professional video editing software designed for professionals and consumers. 
 This software allows you to unleash you creativity when it comes to creating and editing your videos.
- Pinnacle Studios is an affordable yet powerful software that can convert your simple home videos to sleek 
+ Pinnacle Studio is an affordable yet powerful software that can convert your simple home videos to sleek 
  and professional movies. With thousands of ways to enhance your videos, you will only be limited by your creativity. 
 
 
 ## About This Manual
-The purpose of this document is to guide you through the the Pinnacle Studios video editing software. 
-This guide is appropriate for those unfamiliar with video editing software and/or a beginner to Pinnacle. 
+The purpose of this document is to guide you through the the Pinnacle Studio. 
+This guide is appropriate for those unfamiliar with video editing software and/or a beginner to Pinnacle Studio. 
 
 Once you are done with this guide, you will have gained important foundational knowledge by: 
 <ol>
@@ -74,7 +74,7 @@ button mouse.
 <li> <b>Click</b> Click Press the left mouse button and release immediately </li>
 <li> <b>Right-Click:</b> Press the right mouse button and release immediately </li>
 <li> <b>Double-Click:</b> Quickly click the left mouse button twice </li>
-<li> <b>Drag:</b> Press and hold the left mouse button then move the mouse </li>
+<li> <b>Drag:</b> Press and hold the left mouse button then move the mouse. Release the left button on the target</li>
 </ul>
 
 ## Typographical Conventions
@@ -85,7 +85,7 @@ button mouse.
 | **Button Sequence:** Buttons will be outlined in square brackets [ ] and followed by a greater than key > to indicate the flow of the sequence             | [File]>[New]>[Movie]        |
 | **Widows:** Windows will be in quotations                        | "Adjust Duration"                       |
  
- ##Notes And Warnings
+ ## Notes And Warnings
 
 ![warning](docs/images/warning.png) **Note:** This icon indicates to beware of the following.
 
