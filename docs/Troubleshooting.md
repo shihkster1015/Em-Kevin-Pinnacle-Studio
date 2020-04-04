@@ -14,7 +14,7 @@ nav_order: 6
 ## I am unable to import my video clip.
 
 Check your video clip file format. It has to be one of the compatible format to be imported. Click
-[here](docs/DELETE Introduction.md#supported-video-files) for the list of compatiable video formats.
+[here](index.md#supported-video-files) for the list of compatiable video formats.
 
 ## Second Problem?
 
