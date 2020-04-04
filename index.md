@@ -22,10 +22,11 @@ Once you are done with this guide, you will have gained important foundational k
 <li>Importing, editing and exporting a single clip movie.</li> 
 <li>Editing, layering, and transitioning multiple files. </li> 
 <li>Adding subtitle and text effects to your film. </li>
+</ol>
 
 This manual is uses the trial version of Pinnacle Studios which can be downloaded from 
 free [here](https://www.pinnaclesys.com/en/free-trials).
-</ol>
+
 
 ## Prerequisites
 Ensure you are equipped with the following before you start these instructions: 
