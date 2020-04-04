@@ -30,9 +30,9 @@ uninstall Pinnacle from your computers Control Panel “Programs and Features”
 After uninstalling, reinstall Pinnacle Studio and try launching again.   
 
 ## I am
-=======
+
 Make sure the Scrubber starts at the beginning of your video clip in the timeline. The Scrubber
 has to be at the very left side (beginning) of the timeline. This is also indicated with the Scrubber
 at 00:00.00 mark at the bottom of the timeline.
 ![scrub at zero](images/scrubber-at-zero.png)
->>>>>>> faa8579755eefea65b2ad64273274bfa70c63292
+
