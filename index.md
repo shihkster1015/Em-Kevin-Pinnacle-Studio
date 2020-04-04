@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Introduction
 nav_order: 1
 description: "An introduction to a tutorial on Pinnacle Studio 21"
 permalink: /
@@ -86,7 +86,10 @@ button mouse.
 | **Widows:** Windows will be in quotations                        | "Adjust Duration"                       |
  
 
-
+![warning](docs/images/warning.png) **Note:** This icon indicates to beware of the following. \
+![critical](docs/images/critical.png) **Warning** This icon indicates you need to pay special attention to the following. 
+Failure to pay attention may result in undesirable consequences.
+ 
 
 
 
