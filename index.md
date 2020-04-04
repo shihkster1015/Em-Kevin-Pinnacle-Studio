@@ -24,7 +24,7 @@ Once you are done with this guide, you will have gained important foundational k
 <li>Adding subtitle and text effects to your film. </li>
 </ol>
 
-This manual is uses the trial version of Pinnacle Studios which can be downloaded from 
+This manual is uses the trial version of Pinnacle Studios which can be downloaded for 
 free [here](https://www.pinnaclesys.com/en/free-trials).
 
 
