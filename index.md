@@ -13,7 +13,7 @@ This software allows you to unleash you creativity when it comes to creating and
  and professional movies. With thousands of ways to enhance your videos, you will only be limited by your creativity. 
 
 
-## About this manual
+## About This Manual
 The purpose of this document is to guide you through the the Pinnacle Studios video editing software. 
 This guide is appropriate for those unfamiliar with video editing software and/or a beginner to Pinnacle. 
 
@@ -68,9 +68,19 @@ Ensure you are equipped with the following before you start these instructions:
 ---
 
 ## Mouse Conventions
-
+The following are industry standard terms when using a mouse. These conventions assume you are using a standard three 
+button mouse.  
+<ul>
+<li> **Click: ** Press the left mouse button and release immediately. </li>
+<li>** Right-Click: ** Press the right mouse button and release immediately </li>
+<li> **Drag: ** Press and hold the left mouse button then move the mouse </li>>
+</ul>
 
 ## Typographical Conventions
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ## Pinnacle Studio Conventions 
