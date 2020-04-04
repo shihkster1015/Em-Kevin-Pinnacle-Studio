@@ -23,7 +23,8 @@ Once you are done with this guide, you will have gained important foundational k
 <li>Editing, layering, and transitioning multiple files. </li> 
 <li>Adding subtitle and text effects to your film. </li>
 
-This manual is uses the trial version of Pinnacle Studios which can be downloaded from free [here](https://www.pinnaclesys.com/en/free-trials/).
+This manual is uses the trial version of Pinnacle Studios which can be downloaded from 
+free [here](https://www.pinnaclesys.com/en/free-trials).
 </ol>
 
 ## Prerequisites
