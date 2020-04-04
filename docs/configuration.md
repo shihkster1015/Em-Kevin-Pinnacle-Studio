@@ -1,7 +1,6 @@
 ---
 layout: default
 title: DELETE Configuration
-nav_order: 93
 nav_exclude: true
 ---
 
