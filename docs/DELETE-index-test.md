@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Markdown kitchen sink
-nav_order: 96
 nav_exclude: true
 ---
 

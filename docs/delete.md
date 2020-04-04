@@ -1,7 +1,6 @@
 ---
 layout: default
 title: DELETE
-nav_order: 95
 nav_exclude: true
 ---
 
