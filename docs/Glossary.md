@@ -9,6 +9,8 @@ nav_order: 5
 
 These instructions incorporate the following Pinnacle Studio Conventions: 
 
+**MP4**: A file format that contains both audio and video file data. 
+
 **Scrubber**: The scrubber is the single vertical line that marks where you are in the timeline. You can move the 
 scrubber by dragging it across the timeline.  
 

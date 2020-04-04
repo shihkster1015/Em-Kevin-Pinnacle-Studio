@@ -28,7 +28,7 @@ with the Pinnacle Studio layout and conventions, review them [here.](Glossary.md
 2.  Create a new project bin by **clicking** the ![BOX](images/box_icon.png) icon.  
 This project bin will help organize your files. 
 
-3.  **Type** the name for your new project in the *File Name* box and click [Okay].  
+3.  **Type** the name for your new project in the *File Name* box and click [OK].  
 This project is now ready to import the video and audio you want to use for your movie. 
 
 4.  To import your media **click** the ![BOX](images/importIcon.png) icon and search for the files you'd like to use. ![Quick Imports](images/clickImport_findFile.png)  
@@ -50,7 +50,7 @@ There are **two** ways to trim a audio or video file once it has been placed on 
 
 2. **Click** [Duration] to open the *Adjust Duration* window.
 
-3. **Adjust** to desired length by typing and **click** [Okay].
+3. **Adjust** to desired length by typing and **click** [OK].
 
 ![](images/adjust-duration.png)
 
@@ -105,7 +105,7 @@ have an external copy of these files if you plan on needing them in the future.*
 3. **Select** [Add Exported File to Library] from the "After Export Actions" menu. 
 
 4. **Select** [H.264/AVC] from the drop down menu to the right of "Format".  
-H.264/ACV will export you film to a .mp4 file. This format is one of the most universal video formats. 
+H.264/ACV will export you film to a mp4 file. This format is one of the most universal video formats. 
 
 5. **Click** [Export]. 
 ![export-process](images/export.png)
