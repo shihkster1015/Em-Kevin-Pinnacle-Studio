@@ -6,9 +6,6 @@ nav_order: 5
 
 #Glossary
 
-%%%%%% CHECK ALPHABETICAL%%%%%%
-
-## Pinnacle Studio Conventions 
 These instructions incorporate the following Pinnacle Studio Conventions: 
 
 **Scrubber**: The scrubber is the single vertical line that marks where you are in the timeline. You can move the 
@@ -23,4 +20,4 @@ and this allows you to overlap video and audio files. The trial version of Pinna
 **Video Preview Window**: The video preview window is located on the top right hand quadrant of your screen.
 It allows you to see your progress without switching to full screen. 
 
-![](docs/images/pinnacle_conventions.png)
+![](images/pinnacle_conventions.png)
