@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Introduction
 nav_order: 1
 description: "An introduction to a tutorial on Pinnacle Studio 21"
 permalink: /
