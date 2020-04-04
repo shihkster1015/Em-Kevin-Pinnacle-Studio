@@ -22,8 +22,9 @@ for the list of compatible video formats.
 This happens when Pinnacle can no longer locate your file on your computer. This happens if a file is renamed or if it 
 has been moved or deleted from your computer. 
 
-## I am unable to launch Pinnacle Studio. 
+## I can't play my entire video in the Video Preview Window.
 
-It is difficult to know why 
-
-## Fourth Problem?
+Make sure the Scrubber starts at the beginning of your video clip in the timeline. The Scrubber
+has to be at the very left side (beginning) of the timeline. This is also indicated with the Scrubber
+at 00:00.00 mark at the bottom of the timeline.
+![scrub at zero](images/scrubber-at-zero.png)
