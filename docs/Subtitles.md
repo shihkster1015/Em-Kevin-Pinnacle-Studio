@@ -38,7 +38,7 @@ within the white outer box.
 
 
 
-5\. Adjust the duration of the text by inputting when the subtitle will enter and when the subtitle will exit.
+5\. Adjust the duration of the text by **inputting** when the subtitle will enter and when the subtitle will exit.
 [] represents the beginning time. TC is the ending time. 
 
 ![adjust time](images/adjust-time.png)
@@ -61,7 +61,12 @@ within the white outer box.
 3\. (Optional) **Add** a motion (Enter, Emphasis, or Exit) to your subtitle by clicking Motions and the subsequent option.
 ![select motion](images/select-motion.png)
 
-4\. Adjust the duration of the motion by moving the white tab in the text timeline.
+4\. Adjust the duration of the motion by **moving** the white tab in the text timeline.
 ![white bar](images/white-bar.png)
 
-5\. Click [OK] to save your text and exit out of the "Title Editor". 
+5\. **Click** [OK] to save your text and exit out of the "Title Editor". 
+
+
+## Conclusion
+{: .no_toc }
+Your subtitles should be in your video. Play your video in the Video Preview Window to see watch your video!
