@@ -71,8 +71,9 @@ Ensure you are equipped with the following before you start these instructions:
 The following are industry standard terms when using a mouse. These conventions assume you are using a standard three 
 button mouse.  
 <ul>
-<li> <b>Click</b> Click Press the left mouse button and release immediately. </li>
+<li> <b>Click</b> Click Press the left mouse button and release immediately </li>
 <li> <b>Right-Click:</b> Press the right mouse button and release immediately </li>
+<li> <b>Double-Click:</b> Quickly click the left mouse button twice </li>
 <li> <b>Drag:</b> Press and hold the left mouse button then move the mouse </li>
 </ul>
 

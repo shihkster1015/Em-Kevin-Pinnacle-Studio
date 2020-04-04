@@ -22,17 +22,17 @@ for your subtitle.
 
 ## Task 2.1 Create Subtitle 
 
-1\. Drag your video clip from your library to one of the available A/V channels. Except for the first channel.
+1\. **Drag** your video clip from your library to one of the available A/V tracks excluding the first track.
 ![Copy_Video](images/copy-vid-to-track.png)
 
 ![c](images/critical.png)
-**Caution**: Leave the first track for subtitles. Tracks in Pinnacle Studio are like a stack of
- plates. The first track will be "on top" of tracks beneath it.
+**Caution: Leave the first track for subtitles. Tracks in Pinnacle Studio are like a stack of
+ plates. The first track will be "on top" of tracks beneath it.**
  
-2\. Click Create Title denoted by the T symbol at the top of the timeline bar. A Title Editor window will pop up.
+2\. **Click** [Create Title] denoted by the T symbol at the top of the timeline bar. A Title Editor window will pop up.
 ![click T](images/click-title-editor.png)
 
-3\. Add your text under **Your Text Here**. Position your text to a suitable position on screen 
+3\. **Add** your text under **Your Text Here**. Position your text to a suitable position on screen 
 within the white outer box. 
 ![Enter Text](images/enter-text.png)
 
@@ -43,25 +43,25 @@ within the white outer box.
 
 ![adjust time](images/adjust-time.png)
 
-![w](images/warning.png) **note**: The time format is HH:MM:SS.SS
+![w](images/warning.png) **Note**: The time format is HH:MM:SS.SS.
 
-6\. Click [OK] to save your text and exit out of the Title Editor. 
+6\. **Click** [OK] to save your text and exit out of the "Title Editor". 
 
 7\. Verify your subtitle's runtime does not run past the video's runtime. 
 ![text past video](images/text-cant-be-past-video.png)
 
 ## Task 2.2 Edit Subtitle 
 
-1\. Double click the subtitle box to edit the current subtitle.
+1\. **Double-click** the subtitle box to edit the current subtitle.
 ![double click](images/double-click-text.png)
 
-2\. (Optional) Edit the looks of your subtitle using the Text Settings options.
+2\. (Optional) **Edit** the looks of your subtitle using the Text Settings options.
 ![edit text look](images/edit-text-look.png)
 
-3\. (Optional) Add a motion (Enter, Emphasis, or Exit) to your subtitle by clicking Motions and the subsequent option.
+3\. (Optional) **Add** a motion (Enter, Emphasis, or Exit) to your subtitle by clicking Motions and the subsequent option.
 ![select motion](images/select-motion.png)
 
 4\. Adjust the duration of the motion by moving the white tab in the text timeline.
 ![white bar](images/white-bar.png)
 
-5\. Click [OK] to save your text and exit out of the Title Editor. 
+5\. Click [OK] to save your text and exit out of the "Title Editor". 
