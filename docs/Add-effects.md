@@ -13,14 +13,14 @@ This section will go over the basics of add, editing, and deleting video transit
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+3. TOC
 {:toc}
 
 ---
 
 
 
-## Task 1.1 Add Transitional Effects
+## Task 3.1 Add Transitional Effects
 
 1\. Add two videos you want to transition between side by side in the timeline view. 
 ![two vid](images/vid-side-by-side.png)
@@ -45,7 +45,7 @@ second (blue) half increasing means the effect will transition from the first tr
 The duration of the effect and click [OK] to confirm and return.
 ![edit duration](images/edit-duration.jpg)
 
-## Task 1.2 Add Video Effects
+## Task 3.2 Add Video Effects
 1\. Add the video you want to apply an effect to the timeline.
 ![copy video to track](images/copy-vid-to-track.png)
 
@@ -60,7 +60,7 @@ The duration of the effect and click [OK] to confirm and return.
 ![pink line](images/pink-line.jpg) 
 
 
-## Task 1.3 Edit an Effect
+## Task 3.3 Edit an Effect
 
 1\. Right click on the video clip in the timeline to bring up a contextual menu. 
 2\. Select [Effect] -> [Edit] -> [your effect]
@@ -76,7 +76,7 @@ The duration of the effect and click [OK] to confirm and return.
 ![edit menu](images/edit-effect-menu.jpg)
 
 4\. Click [OK] to confirm and return.
-## Task 1.4 Delete Effect
+## Task 3.4 Delete Effect
 
 1\. Right click on the effects box -> [Transition] -> [Delete] to delete an effect.
  \
