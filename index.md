@@ -88,7 +88,6 @@ button mouse.
  
 ## Notes And Warnings
 
-
 ![warning](docs/images/warning.png) **Note:** This icon indicates to beware of the following.
 
 ![critical](docs/images/critical.png) **Warning** This icon indicates you need to pay special attention to the following. 
