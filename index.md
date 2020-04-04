@@ -80,9 +80,8 @@ button mouse.
 
 | Convention                      | Example                     | 
 | :---                            |    :----:                   | 
-| Commands and Actions: 
-Command and action words will be bolded                                | **Click**, **Drag**                           | 
-| Button Sequence:                | [File]>[New]>[Movie]        |
+| Commands and Actions: Command and action words will be bolded | **Click**, **Drag**                           | 
+| Button Sequence: Button sequences will be outlined in square brackets [] and followed by a greater than key >               | [File]>[New]>[Movie]        |
 | Window                          | " "                        |
 
 
