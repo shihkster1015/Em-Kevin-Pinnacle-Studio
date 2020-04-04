@@ -71,7 +71,7 @@ Ensure you are equipped with the following before you start these instructions:
 The following are industry standard terms when using a mouse. These conventions assume you are using a standard three 
 button mouse.  
 <ul>
-<li> <b>Click</b>>Click Press the left mouse button and release immediately. </li>
+<li> <b>Click</b> Click Press the left mouse button and release immediately. </li>
 <li> <b>Right-Click:</b> Press the right mouse button and release immediately </li>
 <li> <b>Drag:</b> Press and hold the left mouse button then move the mouse </li>
 </ul>
@@ -81,8 +81,8 @@ button mouse.
 | Convention                      | Example                     | 
 | :---                            |    :----:                   | 
 | **Commands and Actions:** Command and action words will be bolded | **Click**, **Drag**                           | 
-| **Button Sequence:** Buttons in a sequences will be outlined in square brackets [ ] and followed by a greater than key > to indicate the flow of the sequence             | [File]>[New]>[Movie]        |
-| **Buttons:** Buttons will be in italics                          | *Duration*, *Okay*                       |
+| **Button Sequence:** Buttons will be outlined in square brackets [ ] and followed by a greater than key > to indicate the flow of the sequence             | [File]>[New]>[Movie]        |
+| **Widows:** Windows will be in italics                          | *Duration*, *Okay*                       |
 
 
 
