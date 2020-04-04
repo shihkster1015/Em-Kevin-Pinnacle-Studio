@@ -22,12 +22,13 @@ for your subtitle.
 
 ## Task 2.1 Create Subtitle 
 
-1\. **Drag** your video clip from your library to one of the available A/V tracks excluding the first track.
-![Copy_Video](images/copy-vid-to-track.png)
 
 ![c](images/critical.png)
 **Caution: Leave the first track for subtitles. Tracks in Pinnacle Studio are like a stack of
- plates. The first track will be "on top" of tracks beneath it.**
+ plates. The first track will be "on top" of tracks beneath it.** \
+ 
+1\. **Drag** your video clip from your library to one of the available A/V tracks excluding the first track.
+![Copy_Video](images/copy-vid-to-track.png)
  
 2\. **Click** the ![the T](images/the-T.png) to open a "Title Editor" window. 
 ![click T](images/click-title-editor.png)

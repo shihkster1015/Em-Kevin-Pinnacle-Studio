@@ -30,16 +30,16 @@ This section will go over the basics of add, editing, and deleting video transit
 <br>
 <br>
 3\. **Drag and drop** the effect on top of the video clip in the timeline. \
+![copy effect](images/copy-effect-track.png)
 ![note](images/warning.png) **Note:** If the effect is an entrance effect, it will apply to the beginning of the video. If 
 it is an exit effect, it will apply to the end of the video. If the effect is generic, you can choose to apply
 it to the first half or second half by dropping the effect on the respective half. 
-![copy effect](images/copy-effect-track.png)
 
 <br></br>
 4\. Check that the effect was applied by looking for a box at the corner of your video block. The first (green) half decreasing while the 
 second (blue) half increasing means the effect will transition from the first track to the second. \
-![note](images/warning.png) **Note:** The box will be on the side the effect is applied too. Left for beginning, right for end.
 ![effect triangle](images/effect-triangle.png)
+![note](images/warning.png) **Note:** The box will be on the side the effect is applied too. Left for beginning, right for end.
 
 5\. Edit the duration of the effect by **right-clicking** the effect box and selecting [Transition] > [Edit]. Enter
 The duration of the effect and click [OK] to confirm and return.
@@ -78,9 +78,11 @@ The duration of the effect and click [OK] to confirm and return.
 4\. **Click** [OK] to confirm and return.
 ## Task 3.4 Delete Effect
 
-1\. **Right-click** on the effects box to bring up a contextual menu.
+1\. **Right-click** on the effects box to bring up a contextual menu. \
+
+![note](images/critical.png) **Warning: Be sure to only delete the effect. If you right click in the video box, you will 
+delete the video along with the effects.** \
+
 2\. **Click** [Transition]>[Delete] to delete an effect.
  \
-![note](images/critical.png) **Warning: Be sure to only delete the effect. If you right click in the video box, you will 
-delete the video along with the effects.**
 ![delete effect](images/delete-effect.jpg)
