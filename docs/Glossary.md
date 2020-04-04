@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 #Glossary
+{: .no_toc } 
 
 These instructions incorporate the following Pinnacle Studio Conventions: 
 
