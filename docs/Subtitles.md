@@ -50,7 +50,7 @@ within the white outer box.
 7\. Verify your subtitle's runtime does not run past the video's runtime. 
 ![text past video](images/text-cant-be-past-video.png)
 
-##Task 2.2 Edit Subtitle 
+## Task 2.2 Edit Subtitle 
 
 1\. Double click the subtitle box to edit the current subtitle.
 ![double click](images/double-click-text.png)
