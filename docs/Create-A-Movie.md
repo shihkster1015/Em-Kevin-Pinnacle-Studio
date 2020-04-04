@@ -105,7 +105,7 @@ have an external copy of these files if you plan on needing them in the future.*
 3. **Select** [Add Exported File to Library] from the "After Export Actions" menu. 
 
 4. **Select** [H.264/AVC] from the drop down menu to the right of "Format".  
-H.264/ACV will export you film to a .mp4 file. This format is one of the most universal video formats. 
+H.264/ACV will export you film to a mp4 file. This format is one of the most universal video formats. 
 
 5. **Click** [Export]. 
 ![export-process](images/export.png)
