@@ -14,7 +14,8 @@ nav_order: 6
 ## I am unable to import my video clip.
 
 Check your video clip file format. It has to be one of the compatible format to be imported. Click
-[here](index.md#supported-video-files) for the list of compatiable video formats.
+<a href="https://shihkster1015.github.io/Em-Kevin-Pinnacle-Studio/#supported-video-files" target="_blank">here</a> 
+for the list of compatible video formats.
 
 ## Second Problem?
 
