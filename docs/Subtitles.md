@@ -5,10 +5,20 @@ nav_order: 3
 ---
 # Task Two: Adding Subtitles to Your Video
 
+Adding subtitles to your video can help you deliver a clearer message to your audience. Pinnacle Studio supports
+user customizable fonts and subtitle timing. You are able to customize how the fonts look and even animate the subtitles. 
+
+This section will show you how to add subtitles to your existing videos, edit elements of the subtitle, and set the timing
+for your subtitle.
+
+## Table of Contents
 {: .no_toc .text-delta }
 
-Adding subtitles to your video can help you deliver a clearer message to your audience.
-This section will show you how to add subtitles to your existing videos and how to edit elements of the subtitle.
+1. TOC
+{:toc}
+
+---
+
 
 ## Task 2.1 Create Subtitle 
 
@@ -16,8 +26,8 @@ This section will show you how to add subtitles to your existing videos and how 
 ![Copy_Video](images/copy-vid-to-track.png)
 
 ![c](images/critical.png)
-_**Caution**: Leave the first track for subtitles. Tracks in Pinnacle Studio are like a stack of
- plates. The first track will be "on top" of tracks beneath it._
+**Caution**: Leave the first track for subtitles. Tracks in Pinnacle Studio are like a stack of
+ plates. The first track will be "on top" of tracks beneath it.
  
 2\. Click Create Title denoted by the T symbol at the top of the timeline bar. A Title Editor window will pop up.
 ![click T](images/click-title-editor.png)

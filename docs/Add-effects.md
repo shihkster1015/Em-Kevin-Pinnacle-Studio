@@ -3,19 +3,29 @@ layout: default
 title: Add Effects
 nav_order: 4
 ---
-
-{: .no_toc .text-delta }
-
 # Task Three: Add Effects
 
-Pinnacle Studio provides a suite of customizable built in effects.
+Pinnacle Studio provides a suite of customizable built in effects. Adding effects to your video 
+will prevent awkward transitions between video clips and also enhance dull looking video clips.
+
+This section will go over the basics of add, editing, and deleting video transitions and video effects.
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 
 ## Task 1.1 Add Transitional Effects
 
 1\. Add two videos you want to transition between side by side in the timeline view. 
 ![two vid](images/vid-side-by-side.png)
 
-2\. Find the transition effect you want by clicking the thunderbolt icon (Transition) in the library pane.
+2\. Find the transition effect you want by clicking the thunderbolt icon ![thunderbolt](images/thunderbolt-button.png) in the library pane.
 ![select transition](images/select-transition.png)
 <br>
 <br>
@@ -36,11 +46,12 @@ The duration of the effect and click [OK] to confirm and return.
 ![edit duration](images/edit-duration.jpg)
 
 ## Task 1.2 Add Video Effects
-1\. Add two videos you want to transition between side by side in the timeline view. 
-![two vid](images/vid-side-by-side.png)
+1\. Add the video you want to apply an effect to the timeline.
+![copy video to track](images/copy-vid-to-track.png)
 
-2\. Find the transition effect you want by clicking the fx icon (Effects) in the library pane.
+2\. Find the transition effect you want by clicking the fx icon ![fx](images/fx-button.png) in the library pane.
 ![add effect](images/add-effect.png)
+
 
 3\. Drag and drop the effect on top fo the video clip in the timeline.
 ![copy effect](images/copy-effect.jpg)
