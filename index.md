@@ -86,7 +86,7 @@ button mouse.
 | **Widows:** Windows will be in quotations                        | "Adjust Duration"                       |
 
  
- ## Notes And Warnings
+## Notes And Warnings
 
 ![warning](docs/images/warning.png) **Note:** This icon indicates to beware of the following.
 
