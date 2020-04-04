@@ -1,7 +1,8 @@
 ---
 layout: default
 title: DELETE Storyboard
-nav_order: 91
+nav_order: x
+nav_exclude: true
 ---
 
 # Navigation Structure

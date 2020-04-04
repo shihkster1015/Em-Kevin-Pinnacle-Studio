@@ -1,7 +1,8 @@
 ---
 layout: default
 title: DELETE Navigation Structure
-nav_order: 88
+nav_order: x
+nav_exclude: true
 ---
 
 # Navigation Structure
