@@ -66,3 +66,5 @@ The following icon asks the user to pay extra attention to the current task. \
 ![warning](/docs/images/critical.png)
 
 # Conclusion
+Pinnacle Studio is a versatile software for creating professional videos. Users of Pinnacle Studio can range from 
+professional videographers to basic users who want to create a good looking home video.
