@@ -6,7 +6,7 @@ nav_order: 2
 
 # Task One: Create And Export a Basic Movie 
 {: .no_toc } 
-Understanding the basics of Pinnacle lays the foundation to utilizing all the tools and effects Pinnacle Studios has to offer.  
+Understanding the basics of Pinnacle Studio lays the foundation to utilizing all the tools and effects Pinnacle Studios has to offer.  
 
 In this section we will guide you to create your first movie by using the different features in Pinnacle. Your movie will 
 be made up of imported, edited, and enhanced audio and visual files. At the end, you can export your movie.
@@ -39,14 +39,14 @@ This project is now ready to import the video and audio you want to use for your
 
 ## Task 1.2 Editing Your Files 
 
-There are **two** ways to trim a audio or video file once it has been placed on the track. 
+There are **two** ways to trim an audio or video file once it has been placed on the track. 
 
 ---
 
 ### Adjust Duration
 {: .text-gamma }
 
-1. To adjust the duration of a audio/video clip, simply **right-click** your media file on the track to reveal an options menu. 
+1. To adjust the duration of an audio/video clip, simply **right-click** your media file on the track to reveal an options menu. 
 
 2. **Click** [Duration] to open the *Adjust Duration* window.
 
@@ -74,7 +74,7 @@ a white arrow and/or drag prompt.
  
 ### Delete A File From The Project 
 
-1. **Right-click** the file in the your project bin.  
+1. **Right-click** the file in your project bin.  
  
 2. **Select** [Delete selected].  
   
@@ -89,9 +89,9 @@ have an external copy of these files if you plan on needing them in the future.*
 ---
 ### Delete A File From The Track 
 
-1. Right-click the file you wish to delete on the track.  
+1. **Right-click** the file you wish to delete on the track.  
  
-2. Click delete. 
+2. **Click** [delete]. 
 ![Delete-File-From-Track-Image](images/delete-from-track.png)
 
 ---
@@ -114,7 +114,7 @@ H.264/ACV will export you film to a mp4 file. This format is one of the most uni
 A progress bar will appear at the bottom of the video preview bar.   
 ![progress](images/progress-bar.png)
 
-7. When Pinnacle Studio has exported your new movie, it will automatically open your file explore where your movie is located. 
+7. When Pinnacle Studio has exported your new movie, it will automatically open your file explorer where your movie is located. 
 
 8. Now time to grab some popcorn and enjoy your new film! Don't forget the extra butter. 
 
