@@ -11,7 +11,7 @@ Pinnacle Studio is a professional video editing software designed for profession
 This software allows you to unleash your creativity when creating and editing your videos.
  Pinnacle Studio affordable yet powerful enough to convert your simple home videos clips to sleek 
  and professional movies. With thousands of ways to enhance your videos, you will only be limited by your imagination. 
-
+---
 
 ## About This Manual
 The purpose of this document is to guide you through the basics of Pinnacle Studio. 
@@ -26,7 +26,7 @@ Once you are done with this guide, you will have gained important foundational k
 
 This manual uses the free trial version of Pinnacle Studios, which can be downloaded
  [here](https://www.pinnaclesys.com/en/free-trials).
-
+---
 
 ## Prerequisites
 Ensure you are equipped with the following before you start these instructions: 
@@ -75,11 +75,12 @@ Ensure you are equipped with the following before you start these instructions:
 The following are industry standard terms when using a mouse. These conventions assume you are using a standard three 
 button mouse.  
 <ul>
-<li> <b>Click:</b> Click Press the left mouse button and release immediately </li>
+<li> <b>Click:</b> Press the left mouse button and release immediately </li>
 <li> <b>Right-Click:</b> Press the right mouse button and release immediately </li>
 <li> <b>Double-Click:</b> Quickly click the left mouse button twice </li>
 <li> <b>Drag:</b> Press and hold the left mouse button then move the mouse. Release the left button on the target</li>
 </ul>
+---
 
 ## Typographical Conventions
 
@@ -88,7 +89,7 @@ button mouse.
 | **Commands and Actions:** Command and action words will be bolded | **Click**, **Drag**                           | 
 | **Button Sequence:** Buttons will be outlined in square brackets [ ] and followed by a greater than key > to indicate the flow of the sequence | [File]>[New]>[Movie]        |
 | **Windows and Menus:** Windows and Menus will surrounded quotation marks                        | "Adjust Duration"                       |
-
+---
  
 ## Notes And Warnings
 
