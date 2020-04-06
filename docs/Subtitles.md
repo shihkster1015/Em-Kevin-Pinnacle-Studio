@@ -3,7 +3,7 @@ layout: default
 title: Add Subtitles
 nav_order: 3
 ---
-# Task Two: Adding Subtitles to Your Video
+# Task Two: Add Subtitles to Your Video
 
 Adding subtitles to your video can help you deliver a clearer message to your audience. Pinnacle Studio supports
 user customizable fonts and subtitle timing. You are able to customize how the fonts look and even animate the subtitles. 
@@ -39,16 +39,18 @@ within the white outer box.
 
 
 
-5\. Adjust the duration of the text by **inputting** when the subtitle will enter and when the subtitle will exit.
-[] represents the beginning time. TC is the ending time. 
+4\. Adjust the duration of the text by **inputting** when the subtitle will enter and when the subtitle will exit.
+[ ] represents the beginning time. TC is the ending time. 
 
 ![adjust time](images/adjust-time.png)
 
 ![w](images/warning.png) **Note**: The time format is HH:MM:SS.SS.
 
-6\. **Click** [OK] to save your text and exit out of the "Title Editor". 
+5\. **Click** [OK] to save your text and exit out of the "Title Editor". 
 
-7\. Verify your subtitle's runtime does not run past the video's runtime. 
+6\. Verify your subtitle's runtime does not run past the video's runtime. If it does, follow 
+[Task 2.2 Edit Subtitle](https://shihkster1015.github.io/Em-Kevin-Pinnacle-Studio/docs/Subtitles/#task-22-edit-subtitle) to make changes to the duration
+of your subtitle.
 ![text past video](images/text-cant-be-past-video.png)
 
 ## Task 2.2 Edit Subtitle 
@@ -59,15 +61,12 @@ within the white outer box.
 2\. (Optional) **Edit** the looks of your subtitle using the Text Settings options.
 ![edit text look](images/edit-text-look.png)
 
-3\. (Optional) **Add** a motion (Enter, Emphasis, or Exit) to your subtitle by clicking Motions and the subsequent option.
+3\. (Optional) **Add** a motion (Enter, Emphasis, or Exit) to your subtitle by **clicking** Motions and the subsequent option.
 ![select motion](images/select-motion.png)
 
-4\. Adjust the duration of the motion by **moving** the white tab in the text timeline.
+4\. Adjust the duration of the motion by **moving** the white tab in the timeline. \
 ![white bar](images/white-bar.png)
 
 5\. **Click** [OK] to save your text and exit out of the "Title Editor". 
 
-
-## Conclusion
-{: .no_toc }
-Your subtitles should be in your video. Play your video in the Video Preview Window to see watch your video!
+6\. Your subtitles should be in your video. Play your video in the Video Preview Window to see watch your video!
