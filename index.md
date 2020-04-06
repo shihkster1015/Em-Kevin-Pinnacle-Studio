@@ -89,7 +89,6 @@ button mouse.
 | **Commands and Actions:** Command and action words will be bolded | **Click**, **Drag**                           | 
 | **Button Sequence:** Buttons will be outlined in square brackets [ ] and followed by a greater than key > to indicate the flow of the sequence | [File]>[New]>[Movie]        |
 | **Windows and Menus:** Windows and Menus will surrounded quotation marks                        | "Adjust Duration"                       |
----
  
 ## Notes And Warnings
 
