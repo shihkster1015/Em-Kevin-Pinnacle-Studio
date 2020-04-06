@@ -52,7 +52,7 @@ The duration of the effect and click [OK] to confirm and return.
 ![edit duration](images/edit-duration.jpg)
 
 ## Task 3.2 Add Video Effects
-1\. **Drag  and drop** the video you want to apply an effect to the timeline.  
+1\. **Drag and drop** the video you want to apply an effect to the timeline.  
 
 ![copy video to track](images/copy-vid-to-track.png)
 
