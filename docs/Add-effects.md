@@ -33,9 +33,9 @@ This section will go over the basics of adding, editing, and deleting video tran
 ![copy effect](images/copy-effect-track.png)
 ![note](images/warning.png) **Note:** If the effect is an entrance effect, it will apply to the beginning of the video. If 
 it is an exit effect, it will apply to the end of the video. If the effect is generic, you can choose to apply
-it to the first half or second half by dropping the effect on the respective half. 
+it to the first half or second half by dropping the effect on the respective half.  
 
-<br></br>
+
 4\. Check that the effect was applied by looking for a box shape at the corner of your video clip. The first (green) half decreasing while the 
 second (blue) half increasing means the effect will transition from the first video to the second. \
 ![effect triangle](images/effect-triangle.png)
@@ -63,7 +63,8 @@ The duration of the effect and click [OK] to confirm and return.
 
 ## Task 3.3 Edit an Effect
 
-1\. **Right-click** on the video clip in the timeline to bring up a contextual menu. \
+1\. **Right-click** on the video clip in the timeline to bring up a contextual menu.  
+
 
 2\. **Select** [Effect]>[Edit]>[your effect]
 ![right click edit effect](images/edit-right-click-effect.jpg)
@@ -80,11 +81,13 @@ The duration of the effect and click [OK] to confirm and return.
 4\. **Click** [OK] to confirm and return.
 ## Task 3.4 Delete Effect
 
-1\. **Right-click** on the effects box to bring up a contextual menu. \
+1\. **Right-click** on the effects box to bring up a contextual menu.  
+
 
 ![note](images/critical.png) **Warning: Be sure to only delete the effect. If you right click in the video box, you will 
-delete the video along with the effects.** \
+delete the video along with the effects.**  
 
-2\. **Click** [Transition]>[Delete] to delete an effect.
- \
+
+2\. **Click** [Transition]>[Delete] to delete an effect.  
+
 ![delete effect](images/delete-effect.jpg)
