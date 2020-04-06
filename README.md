@@ -1,11 +1,11 @@
 # Overview Of Pinnacle Studio Guide
-Our guide will teach you the basics of how to use Pinnacle Studio 21. It will start with the basics
+Our guide will teach you the basics of Pinnacle Studio 21. 
 
 Things this user guide site will teach you include: 
 <ul>
 <li>Creating a video</li>
 <li>Editing a video</li>
-<li>Adding Subtitles to a video</li>
+<li>Adding subtitles to a video</li>
 <li>Adding effects and transitions to a video</li>
 </ul>
 
@@ -20,24 +20,24 @@ information that will help us write an informative user guide.
 We explored a few new programs and concepts to help us create this user guide.  
 
 ## Slack
-Due to COVID-19, we had to resort to using Slack for all communications. 
+Due to COVID-19, we relied on Slack for all communications. 
 
 ## Markdown
-Both of us have never used markdown before. We had to, in addition to learning how to write a user guide, learn 
-the in and outs of working with markdown. 
+Neither of us had experience with markdown. While our focus was to write a useful user guide, we did spend significant 
+time learning the in and outs of markdown. 
 
-Despite not knowing how to create a guide using markdown, we definitely have seen markdown before as it is the 
-universal method for creating guides for developers. 
+Despite not knowing how to create a guide using markdown, it  still felt familiar. Both of us have seen markdown in use 
+before as it is the universal method for creating guides for developers. 
 
 With markdown, we learned how to create parent-child relationships, auto table of content generating headings, 
 ordered and unordered lists, and links to anchors within our user guide scope.
 
 ## WebStorm
-Webstorm was a new software for us. Instead of making edits directly on github or on other types of editing software, 
-we were able to see an instant preview of what our guide will look like within WebStorm. 
+Webstorm was a new software for us and very effective. Instead of making edits directly on github or choosing a basic 
+editing software, we were able to see an instant preview of what our guide will look like within WebStorm.  
 
-Being able to see instant preview allowed us to work more efficiently and more organized. Instead of creating a git 
-commit just to see if our changes are effective, our git commits are more finalized and less of a trial and error.
+Being able to see an instant preview allowed us to work efficiently and stay organized. We felt confident in the work we 
+were committing to github and we could avoid using out git commits as the only means to check our code. 
 
 ## Theme
 We chose to use themes from Jekyll for its simplicity and clean approach towards user guides. 
