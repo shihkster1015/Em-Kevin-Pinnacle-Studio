@@ -8,7 +8,7 @@ nav_order: 4
 Pinnacle Studio provides a suite of customizable built in effects. Adding effects to your video 
 will prevent awkward transitions between video clips and also enhance dull looking video clips.
 
-This section will go over the basics of add, editing, and deleting video transitions and video effects.
+This section will go over the basics of adding, editing, and deleting video transitions and video effects.
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -36,17 +36,18 @@ it is an exit effect, it will apply to the end of the video. If the effect is ge
 it to the first half or second half by dropping the effect on the respective half. 
 
 <br></br>
-4\. Check that the effect was applied by looking for a box at the corner of your video block. The first (green) half decreasing while the 
-second (blue) half increasing means the effect will transition from the first track to the second. \
+4\. Check that the effect was applied by looking for a box shape at the corner of your video clip. The first (green) half decreasing while the 
+second (blue) half increasing means the effect will transition from the first video to the second. \
 ![effect triangle](images/effect-triangle.png)
-![note](images/warning.png) **Note:** The box will be on the side the effect is applied too. Left for beginning, right for end.
+![note](images/warning.png) **Note:** The effect is applied to both video clips, but Pinnacle Studio will display 
+it on the clip that will be cut a bit short to include the transition.
 
 5\. Edit the duration of the effect by **right-clicking** the effect box and selecting [Transition] > [Edit]. Enter
 The duration of the effect and click [OK] to confirm and return.
 ![edit duration](images/edit-duration.jpg)
 
 ## Task 3.2 Add Video Effects
-1\. **Add** the video you want to apply an effect to the timeline.
+1\. **Drag  and drop** the video you want to apply an effect to the timeline.
 ![copy video to track](images/copy-vid-to-track.png)
 
 2\. Find the transition effect you want by **clicking** the fx icon ![fx](images/fx-button.png) in the library pane.
@@ -56,13 +57,14 @@ The duration of the effect and click [OK] to confirm and return.
 3\. **Drag and drop** the effect on top fo the video clip in the timeline.
 ![copy effect](images/copy-effect.jpg)
 
-4\. Confirm the effect has been applied with a pink horizontal line on top of your video clip. \
+4\. There will be a pink line on video clips with effects. \
 ![pink line](images/pink-line.jpg) 
 
 
 ## Task 3.3 Edit an Effect
 
-1\. **Right-click** on the video clip in the timeline to bring up a contextual menu. 
+1\. **Right-click** on the video clip in the timeline to bring up a contextual menu. \
+
 2\. **Select** [Effect]>[Edit]>[your effect]
 ![right click edit effect](images/edit-right-click-effect.jpg)
 
