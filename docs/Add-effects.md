@@ -22,14 +22,17 @@ This section will go over the basics of adding, editing, and deleting video tran
 
 ## Task 3.1 Add Transitional Effects
 
-1\. **Add** two videos you want to transition between side by side in the timeline view. 
+1\. **Add** two videos you want to transition between side by side in the timeline view.  
+ 
 ![two vid](images/vid-side-by-side.png)
 
-2\. Find the transition effect you want by **clicking** the thunderbolt icon ![thunderbolt](images/thunderbolt-button.png) in the library pane.
-![select transition](images/select-transition.png)
-<br>
-<br>
-3\. **Drag and drop** the effect on top of the video clip in the timeline. \
+2\. Find the transition effect you want by **clicking** the thunderbolt icon ![thunderbolt](images/thunderbolt-button.png) in the library pane.  
+
+![select transition](images/select-transition.png)  
+  
+  
+3\. **Drag and drop** the effect on top of the video clip in the timeline.  
+
 ![copy effect](images/copy-effect-track.png)
 ![note](images/warning.png) **Note:** If the effect is an entrance effect, it will apply to the beginning of the video. If 
 it is an exit effect, it will apply to the end of the video. If the effect is generic, you can choose to apply
@@ -37,27 +40,32 @@ it to the first half or second half by dropping the effect on the respective hal
 
 
 4\. Check that the effect was applied by looking for a box shape at the corner of your video clip. The first (green) half decreasing while the 
-second (blue) half increasing means the effect will transition from the first video to the second. \
+second (blue) half increasing means the effect will transition from the first video to the second.  
+
 ![effect triangle](images/effect-triangle.png)
 ![note](images/warning.png) **Note:** The effect is applied to both video clips, but Pinnacle Studio will display 
 it on the clip that will be cut a bit short to include the transition.
 
 5\. Edit the duration of the effect by **right-clicking** the effect box and selecting [Transition] > [Edit]. Enter
-The duration of the effect and click [OK] to confirm and return.
+The duration of the effect and click [OK] to confirm and return.  
+
 ![edit duration](images/edit-duration.jpg)
 
 ## Task 3.2 Add Video Effects
-1\. **Drag  and drop** the video you want to apply an effect to the timeline.
+1\. **Drag  and drop** the video you want to apply an effect to the timeline.  
+
 ![copy video to track](images/copy-vid-to-track.png)
 
 2\. Find the transition effect you want by **clicking** the fx icon ![fx](images/fx-button.png) in the library pane.
 ![add effect](images/add-effect.png)
 
 
-3\. **Drag and drop** the effect on top fo the video clip in the timeline.
+3\. **Drag and drop** the effect on top fo the video clip in the timeline.  
+
 ![copy effect](images/copy-effect.jpg)
 
-4\. There will be a pink line on video clips with effects. \
+4\. There will be a pink line on video clips with effects.  
+
 ![pink line](images/pink-line.jpg) 
 
 
@@ -66,7 +74,8 @@ The duration of the effect and click [OK] to confirm and return.
 1\. **Right-click** on the video clip in the timeline to bring up a contextual menu.  
 
 
-2\. **Select** [Effect]>[Edit]>[your effect]
+2\. **Select** [Effect]>[Edit]>[your effect]  
+
 ![right click edit effect](images/edit-right-click-effect.jpg)
 
 3\. (Optional) Make any changes to your effect in the edit effect window.
