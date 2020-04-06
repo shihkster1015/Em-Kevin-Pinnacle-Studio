@@ -8,23 +8,23 @@ permalink: /
 
 # Introduction
 Pinnacle Studio is a professional video editing software designed for professionals and consumers. 
-This software allows you to unleash you creativity when it comes to creating and editing your videos.
+This software allows you to unleash your creativity when it comes to creating and editing your videos.
  Pinnacle Studio is an affordable yet powerful software that can convert your simple home videos to sleek 
  and professional movies. With thousands of ways to enhance your videos, you will only be limited by your creativity. 
 
 
 ## About This Manual
-The purpose of this document is to guide you through the the Pinnacle Studio. 
+The purpose of this document is to guide you through Pinnacle Studio. 
 This guide is appropriate for those unfamiliar with video editing software and/or a beginner to Pinnacle Studio. 
 
 Once you are done with this guide, you will have gained important foundational knowledge by: 
 <ol>
-<li>Importing, editing and exporting a single clip movie.</li> 
+<li>Importing, editing, and exporting a single clip movie.</li> 
 <li>Editing, layering, and transitioning multiple files. </li> 
 <li>Adding subtitle and text effects to your film. </li>
 </ol>
 
-This manual is uses the trial version of Pinnacle Studios which can be downloaded for 
+This manual uses the trial version of Pinnacle Studios, which can be downloaded for 
 free [here](https://www.pinnaclesys.com/en/free-trials).
 
 
@@ -55,7 +55,7 @@ Ensure you are equipped with the following before you start these instructions:
 <li>Internal Video Files (.dif, .ts2)</li>
 <li>Matroska container files (.mkv)</li>
 <li>Other Files (.dvd)</li>
-<li>FlashVideo Files (.flv)</li>
+<li>Flash Video Files (.flv)</li>
 </ul>
 ---
 
