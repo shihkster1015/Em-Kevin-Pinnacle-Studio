@@ -11,7 +11,7 @@ Pinnacle Studio is a professional video editing software designed for profession
 This software allows you to unleash your creativity when creating and editing your videos.
  Pinnacle Studio affordable yet powerful enough to convert your simple home videos clips to sleek 
  and professional movies. With thousands of ways to enhance your videos, you will only be limited by your imagination. 
----
+
 
 ## About This Manual
 The purpose of this document is to guide you through the basics of Pinnacle Studio. 
@@ -26,7 +26,7 @@ Once you are done with this guide, you will have gained important foundational k
 
 This manual uses the free trial version of Pinnacle Studios, which can be downloaded
  [here](https://www.pinnaclesys.com/en/free-trials).
----
+
 
 ## Prerequisites
 Ensure you are equipped with the following before you start these instructions: 
