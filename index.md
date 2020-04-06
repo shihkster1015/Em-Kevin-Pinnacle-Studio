@@ -7,14 +7,14 @@ permalink: /
 ---
 
 # Introduction
-Pinnacle Studio is a professional video editing software designed for professionals and consumers. 
-This software allows you to unleash your creativity when it comes to creating and editing your videos.
- Pinnacle Studio is an affordable yet powerful software that can convert your simple home videos to sleek 
- and professional movies. With thousands of ways to enhance your videos, you will only be limited by your creativity. 
+Pinnacle Studio is a professional video editing software designed for professionals and beginners. 
+This software allows you to unleash your creativity when creating and editing your videos.
+ Pinnacle Studio affordable yet powerful enough to convert your simple home videos clips to sleek 
+ and professional movies. With thousands of ways to enhance your videos, you will only be limited by your imagination. 
 
 
 ## About This Manual
-The purpose of this document is to guide you through Pinnacle Studio. 
+The purpose of this document is to guide you through the basics of Pinnacle Studio. 
 This guide is appropriate for those unfamiliar with video editing software and/or a beginner to Pinnacle Studio. 
 
 Once you are done with this guide, you will have gained important foundational knowledge by: 
@@ -24,8 +24,8 @@ Once you are done with this guide, you will have gained important foundational k
 <li>Adding subtitle and text effects to your film. </li>
 </ol>
 
-This manual uses the trial version of Pinnacle Studios, which can be downloaded for 
-free [here](https://www.pinnaclesys.com/en/free-trials).
+This manual uses the free trial version of Pinnacle Studios, which can be downloaded
+ [here](https://www.pinnaclesys.com/en/free-trials).
 
 
 ## Prerequisites
@@ -33,8 +33,8 @@ Ensure you are equipped with the following before you start these instructions:
  <ul>
  <li>Microsoft Windows Operating System</li>
  <li>Pinnacle Studio Trial 21 or newer</li>
- <li>Video in one of the acceptable formats</li>
- <li>Audio in one of the acceptable formats</li>
+ <li>A video in one of the acceptable formats</li>
+ <li>An audio in one of the acceptable formats (Optional)</li>
  </ul>
 ---
 
@@ -87,7 +87,7 @@ button mouse.
 | :---                            |    :----:                               | 
 | **Commands and Actions:** Command and action words will be bolded | **Click**, **Drag**                           | 
 | **Button Sequence:** Buttons will be outlined in square brackets [ ] and followed by a greater than key > to indicate the flow of the sequence | [File]>[New]>[Movie]        |
-| **Windows:** Windows will be in quotations                        | "Adjust Duration"                       |
+| **Windows and Menus:** Windows and Menus will surrounded quotation marks                        | "Adjust Duration"                       |
 
  
 ## Notes And Warnings
