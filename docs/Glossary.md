@@ -7,8 +7,6 @@ nav_order: 5
 # Glossary
 {: .no_toc } 
 
-These instructions incorporate the following Pinnacle Studio Conventions: 
-
 **MP4**  
 A file format that contains both audio and video file data. 
 
