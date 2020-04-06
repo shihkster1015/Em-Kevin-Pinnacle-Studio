@@ -31,10 +31,10 @@ This project bin will help organize your files.
 3.  **Type** the name for your new project in the *File Name* box and click [OK].  
 This project is now ready to import the video and audio you want to use for your movie. 
 
-4.  To import your media **click** the ![BOX](images/importIcon.png) icon and search for the files you'd like to use. ![Quick Imports](images/clickImport_findFile.png)  
+4.  **Click** the ![BOX](images/importIcon.png) icon and search for the files you'd like to import and use. ![Quick Imports](images/clickImport_findFile.png)  
   
    
-5.	Now that your files are ready to use, **drag** your video to the first A/V Track at the beginning of the track.  
+5.	**Drag** your video to the first A/V Track at the beginning of the track.  
     
 
 ## Task 1.2 Editing Your Files 
@@ -46,7 +46,7 @@ There are **two** ways to trim an audio or video file once it has been placed on
 ### Adjust Duration
 {: .text-gamma }
 
-1. To adjust the duration of an audio/video clip, simply **right-click** your media file on the track to reveal an options menu. 
+1. **Right-click** your media file on the track to reveal a contextual menu. 
 
 2. **Click** [Duration] to open the *Adjust Duration* window.
 
