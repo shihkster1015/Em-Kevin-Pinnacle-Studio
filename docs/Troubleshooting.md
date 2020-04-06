@@ -38,7 +38,8 @@ at 00:00.00 mark at the bottom of the timeline.\
 
 ## I can't see my video clip at all.
 
-Check the visibility of your track. If the track is set as visible, you will see an eye 
-<img src="images/eye.jpg" alt="eye" width="20" heightt="20"> icon. If you see the eye crossed out, 
-that means you have a hidden track. Click the eye again to set the track as visible.\
-![set visib](images/set-visib.jpg).
+Check the visibility of your track in the timeline. If your track is hidden, it will have an eye with a red slash 
+![eye crossed](images/eye-crossed-out.jpg). 
+Click the eye until the red slash disappears ![eye normal](images/small-eye.jpg). 
+Your track should look like this: \
+![visible track](images/set-visib.jpg)
