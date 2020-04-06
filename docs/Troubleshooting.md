@@ -33,7 +33,7 @@ After uninstalling, reinstall Pinnacle Studio and try launching again.
 
 Make sure the Scrubber starts at the beginning of your video clip in the timeline. The Scrubber
 has to be at the very left side (beginning) of the timeline. This is also indicated with the Scrubber
-at 00:00.00 mark at the bottom of the timeline.\
+at 00:00.00 mark at the bottom of the timeline.
 ![scrub at zero](images/scrubber-at-zero.png)
 
 ## I can't see my video clip at all.
@@ -41,5 +41,5 @@ at 00:00.00 mark at the bottom of the timeline.\
 Check the visibility of your track in the timeline. If your track is hidden, it will have an eye with a red slash 
 ![eye crossed](images/eye-crossed-out.jpg). 
 Click the eye until the red slash disappears ![eye normal](images/small-eye.jpg). 
-Your track should look like this: \
+Your track should look like this: 
 ![visible track](images/set-visib.jpg)
