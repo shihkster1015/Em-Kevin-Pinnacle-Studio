@@ -28,10 +28,12 @@ for your subtitle.
  plates. The first track will be "on top" of tracks beneath it.**  
  
  
-1\. **Drag** your video clip from your library to one of the available A/V tracks excluding the first track.
+1\. **Drag** your video clip from your library to one of the available A/V tracks excluding the first track.  
+
 ![Copy_Video](images/copy-vid-to-track.png)
  
-2\. **Click** the ![the T](images/the-T.png) to open a "Title Editor" window. 
+2\. **Click** the ![the T](images/the-T.png) to open a "Title Editor" window.  
+ 
 ![click T](images/click-title-editor.png)
 
 3\. **Add** your text under **Your Text Here**. Position your text to a suitable position on screen 
@@ -43,7 +45,8 @@ within the white outer box.
 4\. Adjust the duration of the text by inputting when the subtitle will enter and when the subtitle will exit.
 [ ] represents the beginning time. TC is the ending time. 
 
-![adjust time](images/adjust-time.png)
+![adjust time](images/adjust-time.png)  
+
 
 ![w](images/warning.png) **Note**: The time format is HH:MM:SS.SS.  
 
@@ -64,6 +67,7 @@ of your subtitle.
 ![double click](images/double-click-text.png)
 
 2\. (Optional) Edit the looks of your subtitle using the Text Settings options.  
+  
 ![edit text look](images/edit-text-look.png)
 
 3\. (Optional) **Add** a motion (Enter, Emphasis, or Exit) to your subtitle by **clicking** Motions and the subsequent option.  
