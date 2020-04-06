@@ -8,7 +8,7 @@ Things this user guide site will teach you include:
 <li>Adding Subtitles to a video</li>
 <li>Adding effects and transitions to a video</li>
 </ul>
----
+
 
 # Collaboration
 In the beginning, when we realized we wanted to do a guide for Pinnacle Studio, we each brainstormed a couple ideas. 
